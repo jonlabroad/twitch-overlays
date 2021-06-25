@@ -3,16 +3,16 @@ import './App.css';
 import Config from './Config';
 import { HashRouter as Router, Route, Switch, useLocation } from 'react-router-dom';
 import { ComponentPage } from './components/ComponentPage';
-import { CurrentSongeryContainer } from './components/CurrentSong/CurrentSongeryContainer';
+import { HoagieFollowerAlertContainer } from './components/Follower/HoagieFollowerAlertContainer';
 
 export default function App() {
   return (
     <div>
       <Router>
         <Switch>
-          <Route path={`/${Config.componentsPath}/currentSongery`}>
+          <Route path={`/${Config.componentsPath}/hoagieFollowerAlert`}>
             <ComponentPage>
-              <CurrentSongeryContainer />
+              <HoagieFollowerAlertContainer />
             </ComponentPage>
           </Route>
         </Switch>

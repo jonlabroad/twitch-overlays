@@ -24,7 +24,8 @@
     "start": "react-scripts start",
     "build": "react-scripts build",
     "test": "react-scripts test",
-    "eject": "react-scripts eject"
+    "eject": "react-scripts eject",
+    "deploy": "npm run build && aws s3 sync ./build s3://overlays.hoagieman.net"
   },
   "eslintConfig": {
     "extends": [
@@ -48,6 +49,10 @@
     "@types/react-helmet": "^6.1.1",
     "@types/react-router": "^5.1.14",
     "@types/react-router-dom": "^5.1.7",
-    "@types/socket.io": "^3.0.2"
+    "@types/socket.io": "^3.0.2",
+    "serverless": "^2.44.0",
+    "serverless-api-cloudfront": "^0.9.5",
+    "serverless-offline": "^7.0.0",
+    "serverless-s3-sync": "^1.17.1"
   }
 }
