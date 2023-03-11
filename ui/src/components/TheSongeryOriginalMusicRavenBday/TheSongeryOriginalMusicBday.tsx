@@ -9,10 +9,10 @@ function isOriginal(currentListSongRef: any) {
     return currentListSongRef.current && (currentListSongRef.current.artist === "Hoagie Man" || currentListSongRef.current.artist.toLowerCase().includes("the songery"));
 }
 
-export interface TheSongeryOriginalMusicRavenProps {
+export interface TheSongeryOriginalMusicBdayProps {
 }
 
-export const TheSongeryOriginalMusicRaven = (props: TheSongeryOriginalMusicRavenProps) => {
+export const TheSongeryOriginalMusicBday = (props: TheSongeryOriginalMusicBdayProps) => {
     const [animationObject, getAnimationObject] = useState<GetAnimationObjectParameter | null>(null);
 
     const [activated, setActivated] = useState(false);
@@ -44,7 +44,7 @@ export const TheSongeryOriginalMusicRaven = (props: TheSongeryOriginalMusicRaven
 
     return <React.Fragment>
         <AnimateCC
-            animationName={"originalMusicRaven"}
+            animationName="originalMusicBirthday2022"
             getAnimationObject={getAnimationObject}
             paused={false}
         />

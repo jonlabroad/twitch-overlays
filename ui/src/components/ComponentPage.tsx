@@ -1,6 +1,4 @@
-import React from "react"
-import { useLocation } from "react-router";
-import Config from "../Config";
+import "../styles/component-page.scss"
 
 export interface ComponentPageProps {
     children: any
