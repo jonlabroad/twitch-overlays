@@ -23,7 +23,7 @@ export interface BuddyListUserProps {
 export const BuddyListUser = (props: BuddyListUserProps) => {
     const { userStatus } = props;
 
-    const userStyles: Record<string, any> = { fontSize: 14, ...stateToUserStyle[userStatus ?? "present"] }
+    const userStyles: Record<string, any> = { fontSize: 14, overflow: "hidden", ...stateToUserStyle[userStatus ?? "present"] }
     return (
         <FlexRow flexDirection="row" alignItems="center" marginLeft={30} marginTop={2} >
             <BuddyListStatusIcon status={userStatus}/>

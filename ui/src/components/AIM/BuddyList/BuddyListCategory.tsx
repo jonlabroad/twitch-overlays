@@ -11,12 +11,12 @@ export const BuddyListCategory = (props: BuddyListCategoryProps) => {
     const { name, users } = props;
 
     return (
-        <FlexCol style={{ marginTop: 3, marginLeft: 0 }}>
+        <FlexCol style={{ marginTop: 3, marginLeft: 0, flexWrap: "wrap" }}>
             <BuddyListCategoryHeader
                 label={name}
                 numUsers={users.length}
             />
-            <FlexCol>
+            <FlexCol style={{}}>
                 {users.map(userstate => (
                     <BuddyListUser userName={userstate["display-name"]} userStatus={userstate.status ?? "present"} />
                 ))}

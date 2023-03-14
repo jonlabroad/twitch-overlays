@@ -4,6 +4,7 @@ import { FlexCol, FlexRow } from "../../util/FlexBox"
 import { WindowsDialog } from "../../WindowsEmu/WindowsDialog"
 import { BuddyListCategory } from "./BuddyListCategory"
 import { BuddyListUser } from "./BuddyListUser"
+import { Test } from "./test"
 
 const statusCheckIntervalMillis = 5000
 
@@ -17,7 +18,7 @@ export interface BuddyListProps {
 }
 
 export const BuddyList = (props: BuddyListProps) => {
-    const channelName = "closureclub"
+    const channelName = "missyalcazarmusic"
     const [currentMessage, popMessage] = useTwitchChat(channelName)
 
     const [userList, setUserList] = useState<Record<string, any>>({})
@@ -98,47 +99,44 @@ export const BuddyList = (props: BuddyListProps) => {
     const theRest = Object.values(userList).filter(user => !user.mod && !user.vip)
 
     return (
-        <div style={{ maxWidth: 350, height: "100%" }}>
-            <WindowsDialog style={{ height: "100%" }} title={`${channelName}'s Buddy List`}>
-                <FlexRow alignItems="center" marginLeft={8} marginTop={-6} >
-                    <p style={{ marginRight: 16 }}>My Stream</p>
-                    <p style={{ marginRight: 16 }}>People</p>
-                    <p style={{ marginRight: 16 }}>Help</p>
-                </FlexRow>
-                <hr style={{ marginTop: -6, width: "98%" }} />
-                <FlexRow justifyContent="center" style={{ marginBottom: 10 }}>
-                    <img src={`images/AIM_97_blue.webp`} />
-                </FlexRow>
-
-                <FlexCol flexGrow={1} alignItems="stretch">
-                    <section className="tabs" style={{ display: "flex", flexDirection: "column", justifyContent: "stretch", flexGrow: 1, marginRight: 6, marginLeft: 6 }}>
+        <>
+            {/* <Test userList={userList}/> */}
+                <WindowsDialog style={{ maxWidth: 350, height: "100%" }} title={`${channelName}'s Buddy List`}>
+                    <FlexRow alignItems="center" marginLeft={8} marginTop={-6} >
+                        <p style={{ marginRight: 16 }}>My Stream</p>
+                        <p style={{ marginRight: 16 }}>People</p>
+                        <p style={{ marginRight: 16 }}>Help</p>
+                    </FlexRow>
+                    <hr style={{ marginTop: -6, width: "98%" }} />
+                    <FlexRow justifyContent="center" style={{ marginBottom: 10 }}>
+                        <img src={`images/AIM_97_blue.webp`} />
+                    </FlexRow>
+                    {/* <Test userList={userList}/> */}
+                    <FlexCol className="tabs" style={{ display: "flex", flexDirection: "column", justifyContent: "stretch", flexGrow: 1, marginRight: 6, marginLeft: 6, height: "40vh", overflow: "hidden" }}>
                         <menu role="tablist" aria-label="Sample Tabs">
                             <button role="tab" aria-selected="true" aria-controls="online">Online</button>
                             <button role="tab" aria-controls="listsetup">List Setup</button>
                         </menu>
-                        <article style={{ height: "100%" }} role="tabpanel" id="online">
-                            <FlexCol style={{ height: "100%", marginTop: -6, marginRight: -6, marginLeft: -6, borderWidth: 1, borderStyle: "solid", backgroundColor: "white" }}>
-                                <FlexCol style={{ marginTop: 0, marginLeft: 5 }}>
-                                    <BuddyListCategory
-                                        name="Mods"
-                                        users={mods}
-                                    />
+                        <article style={{ display: "flex", flexDirection: "column", flexGrow: 1, overflow: "hidden" }} role="tabpanel" id="online">
+                            <FlexCol style={{ maxHeight: "100%", flexGrow: 1, marginTop: -6, marginRight: -6, marginLeft: -6, borderWidth: 1, borderStyle: "solid", backgroundColor: "white", overflow: "hidden" }}>
+                                <BuddyListCategory
+                                    name="Mods"
+                                    users={mods}
+                                />
 
-                                    <BuddyListCategory
-                                        name="VIPs"
-                                        users={vips}
-                                    />
+                                <BuddyListCategory
+                                    name="VIPs"
+                                    users={vips}
+                                />
 
-                                    <BuddyListCategory
-                                        name="Friends"
-                                        users={theRest}
-                                    />
-                                </FlexCol>
+                                <BuddyListCategory
+                                    name="Friends"
+                                    users={theRest}
+                                />
                             </FlexCol>
                         </article>
-                    </section>
-                </FlexCol>
-            </WindowsDialog>
-        </div>
+                    </FlexCol>
+                </WindowsDialog>
+        </>
     )
 }
