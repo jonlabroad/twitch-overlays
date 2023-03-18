@@ -1,0 +1,108 @@
+.main-container {
+	background-color: transparent;
+    height: 95vh;
+    width: 100%;
+    border-style: none; 
+}
+
+/* Utils */
+.flex-row {
+    display: flex;
+    flex-direction: row;
+}
+
+.flex-col {
+    display: flex;
+    flex-direction: column;
+}
+
+/* Dialogs */
+.title-bar-text {
+    overflow: hidden;
+    text-overflow: ellipsis;
+    white-space: nowrap;
+}
+
+.windows-dialog {
+    max-width: 350px;
+    height: 100%;
+}
+
+.window-contents {
+    align-items: stretch;
+    flex-grow: 1;
+}
+
+.tabs {
+    justify-content: column;
+    flex-grow: 1;
+    margin-right: 8px;
+    margin-left: 8px;
+    overflow: hidden;
+}
+
+/* image */
+.logo-image {
+    width: auto;
+    max-height: 145px;
+    overflow: hidden;
+}
+
+/* User list */
+.categories-container {
+    display: flex;
+    flex-direction: column;
+    width: 100%;
+    justify-content: center;
+}
+
+.user-group {
+    display: flex;
+    flex-direction: column;
+    align-content: center;
+}
+
+.user-group-header {
+    display: flex;
+    flex-direction: row;
+}
+
+.user-group-icon {
+    margin-right: 2px;
+}
+
+.user-group-name {
+    font-size: 14px;
+    font-weight: bold;
+    margin: 1px;
+}
+
+.user-row {
+    display: flex;
+    flex-direction: row;
+    margin-left: 24px;
+}
+
+.user-status-icon {
+    width: 18px;
+    height: 18px;
+    margin-right: 5px;
+}
+
+.user-status-icon img {
+    width: 18px;
+}
+
+.user-name {
+    font-size: 14px;
+    overflow: hidden;
+}
+
+.user-name-login {
+    font-weight: bold;
+}
+
+.user-name-logout {
+    font-style: italic;
+    color: grey;
+}

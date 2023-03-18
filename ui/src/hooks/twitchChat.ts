@@ -1,9 +1,10 @@
 import { useEffect, useRef, useState } from "react";
 import * as tmi from "tmi.js"
+import { ChatMessage } from "../chat/ChatMessage";
 
-export function useTwitchChat(channelName: string) {
-    const [currentMessage, setCurrentMessage] = useState<any | undefined>(undefined)
-    const messageQueue = useRef<any[]>([])
+export function useTwitchChat(channelName: string): [ChatMessage | undefined, () => void] {
+    const [currentMessage, setCurrentMessage] = useState<ChatMessage | undefined>(undefined)
+    const messageQueue = useRef<ChatMessage[]>([])
 
     const client = useRef(new tmi.Client({
         channels: [channelName]
@@ -13,9 +14,12 @@ export function useTwitchChat(channelName: string) {
         client.current.on("message", (channel, userstate, message) => {
             console.log({recv: {userstate, message}})
             messageQueue.current.push({
-                channel,
-                userstate,
-                message,
+                userId: userstate["user-id"] ?? "",
+                username: userstate.username ?? "",
+                displayName: userstate["display-name"] ?? "",
+                isMod: userstate.mod ?? false,
+                isVip: userstate.vip ?? false,
+                message: message,
                 timestamp: new Date()
             })
             if (!currentMessage) {
