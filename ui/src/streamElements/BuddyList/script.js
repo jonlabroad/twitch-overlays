@@ -163,22 +163,26 @@ function updateUserStatuses() {
     const timeSinceFirstMessage = now - firstMessageTimeMillis;
     const timeSinceLastMessage = now - lastMessageMillis;
 
-    user.status = "present";
+    let newStatus = "present"
     if (timeSinceFirstMessage < loginDurationMillis) {
-      user.status = "login";
+      newStatus = "login";
     }
 
     if (timeSinceLastMessage > awayDurationMillis) {
-      user.status = "away";
+      newStatus = "away";
     }
 
     if (timeSinceLastMessage > logoutDurationMillis) {
-      user.status = "logout";
+      newStatus = "logout";
     }
 
+    let changed = user.status === newStatus;
     if (timeSinceLastMessage > removeDurationMillis) {
+      changed = true;
       removeUserIds.push(user.userId);
     }
+
+    user.status = newStatus
   });
 
   removeUserIds.forEach((userId) => delete users[userId]);

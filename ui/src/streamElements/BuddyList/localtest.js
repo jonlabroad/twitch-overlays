@@ -12,6 +12,7 @@ const userPool = [
     },
 ]
 
+/*
 const intervalHandle = setInterval(() => {
     console.log("Generating chat message event...")
     const randUser = userPool[Math.floor(Math.random() * userPool.length)]
@@ -19,4 +20,4 @@ const intervalHandle = setInterval(() => {
 }, 1000)
 
 setTimeout(() => clearInterval(intervalHandle), 10000)
-
+*/
