@@ -15,9 +15,9 @@ const allStatuses = ["present", "login", "away", "logout"];
 const users = {};
 
 const defaultGroups = [
-  { name: "Mods", isInGroup: (user) => user.isMod },
-  { name: "VIPs", isInGroup: (user) => user.isVip },
-  { name: "Friends", isInGroup: (user) => true },
+  { name: "Mods", isInGroup: (user) => user.isMod, order: 3 },
+  { name: "VIPs", isInGroup: (user) => user.isVip, order: 1 },
+  { name: "Friends", isInGroup: (user) => true, order: 2 },
 ];
 
 const expandedIcon = "https://overlays.hoagieman.net/images/expanded-icon.png";
@@ -32,7 +32,6 @@ const defaultIcons = {
 };
 
 setInterval(() => updateUsers(), statusCheckIntervalMillis);
-setInterval(() => render(), 1000);
 
 let doRender = true;
 
@@ -43,8 +42,8 @@ window.onload = (event) => {
     $(".logo-image img").attr("src", defaultImage);
   }
 
-  defaultGroups.forEach((group) => {
-    console.log({ group });
+  const sortedGroups = defaultGroups.sort((g1, g2) => g1.order - g2.order)
+  sortedGroups.forEach((group) => {
     $(".categories-container").append(`
       <div id="group-${group.name}"></div>
     `);
@@ -52,13 +51,11 @@ window.onload = (event) => {
 
   const groupElements = renderGroups();
   groupElements.forEach((groupElement) => {
-    console.log({ groupElement });
     $(`#${groupElement.id}`).replaceWith(groupElement.element);
   });
 };
 
 window.addEventListener("onWidgetLoad", function (obj) {
-  console.log({ onWidgetLoad: obj });
   const detail = obj.detail;
   const fieldData = detail.fieldData;
 
@@ -111,36 +108,22 @@ function handleEvent(eventType, eventDetail) {
 
 function updateUsers() {
   // Update the user data
-  console.log("update users");
   updateUserStatuses();
 }
 
-function render() {
-  if (doRender) {
-    console.log("render");
-  }
-}
-
 function renderGroups() {
-  const userGroups = {};
-  defaultGroups.forEach((group) => (userGroups[group.name] = []));
-  Object.values(users).forEach((user) => {
-    const g = defaultGroups.find((group) => group.isInGroup(user));
-    userGroups[g.name].push(user);
-  });
-
-  const elements = Object.entries(userGroups).map(([groupName, users]) => ({
+  const elements = defaultGroups.map((group) => ({
     element: `
-      <div id="group-${groupName}" class="user-group">
+      <div id="group-${group.name}" class="user-group">
         <div class="user-group-header">
           <div class="user-group-icon">
             <img src=${expandedIcon} />
           </div>
-          <div id="group-${groupName}" class="user-group-name">${groupName} (<span class="group-number">${users.length}</span>)</div>
+          <div id="group-${group.name}" class="user-group-name">${group.name} (<span class="group-number">0</span>)</div>
         </div>
       </div>
   `,
-    id: `group-${groupName}`,
+    id: `group-${group.name}`,
   }));
 
   return elements;
@@ -159,12 +142,14 @@ function renderUser(user) {
               <img src="" />
             </div>
             <div class="user-name user-name-${user.status}">${
-            user.displayName
-          }</div>
+          user.displayName
+        }</div>
           </div>
         `);
-        const numUsersInGroup = $(`#group-${group.name}`).find(".user-name").length
-        $(`#group-${group.name} .group-number`).text(numUsersInGroup)
+        const numUsersInGroup = $(`#group-${group.name}`).find(
+          ".user-name"
+        ).length;
+        $(`#group-${group.name} .group-number`).text(numUsersInGroup);
       }
       setUserStatus(user);
     }
@@ -187,7 +172,7 @@ function setUserStatus(user) {
 }
 
 function removeUser(user) {
-  $(`#${getUserId(user)}`).remove()
+  $(`#${getUserId(user)}`).remove();
 }
 
 function getUserId(user) {
@@ -222,7 +207,6 @@ function updateUserStatuses() {
       newStatus = "logout";
     }
 
-    let changed = user.status === newStatus;
     if (timeSinceLastMessage > removeDurationMillis) {
       changed = true;
       removeUserIds.push(user.userId);
@@ -237,7 +221,7 @@ function updateUserStatuses() {
   });
 
   removeUserIds.forEach((userId) => {
-    removeUser(users[userId])
-    delete users[userId]
+    removeUser(users[userId]);
+    delete users[userId];
   });
 }
