@@ -136,7 +136,7 @@ function renderGroups() {
           <div class="user-group-icon">
             <img src=${expandedIcon} />
           </div>
-          <div class="user-group-name">${groupName} (${users.length})</div>
+          <div id="group-${groupName}" class="user-group-name">${groupName} (<span class="group-number">${users.length}</span>)</div>
         </div>
       </div>
   `,
@@ -154,15 +154,17 @@ function renderUser(user) {
       const groupElement = $(`#group-${group.name}`);
       if (groupElement) {
         groupElement.append(`
-        <div id="${getUserId(user)}" class="user-row">
-          <div class="user-status-icon">
-            <img src="" />
+          <div id="${getUserId(user)}" class="user-row">
+            <div class="user-status-icon">
+              <img src="" />
+            </div>
+            <div class="user-name user-name-${user.status}">${
+            user.displayName
+          }</div>
           </div>
-          <div class="user-name user-name-${user.status}">${
-          user.displayName
-        }</div>
-        </div>
-      `);
+        `);
+        const numUsersInGroup = $(`#group-${group.name}`).find(".user-name").length
+        $(`#group-${group.name} .group-number`).text(numUsersInGroup)
       }
       setUserStatus(user);
     }
