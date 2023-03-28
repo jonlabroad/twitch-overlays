@@ -98,11 +98,11 @@
     overflow: hidden;
 }
 
-.user-name-login {
+.status-login {
     font-weight: bold;
 }
 
-.user-name-logout {
+.status-logout {
     font-style: italic;
     color: grey;
 }

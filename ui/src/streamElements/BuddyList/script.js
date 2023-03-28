@@ -3,9 +3,14 @@ let channelName = undefined;
 
 const statusCheckIntervalMillis = 1000;
 const loginDurationMillis = 30 * 1e3;
-const awayDurationMillis = 10 * 60 * 1e3;
-const logoutDurationMillis = awayDurationMillis + 5 * 60 * 1e3;
+//const awayDurationMillis = 10 * 60 * 1e3;
+//const logoutDurationMillis = awayDurationMillis + 5 * 60 * 1e3;
+//const removeDurationMillis = logoutDurationMillis + 30 * 1e3;
+const awayDurationMillis = 1 * 60 * 1e3;
+const logoutDurationMillis = awayDurationMillis + 1 * 60 * 1e3;
 const removeDurationMillis = logoutDurationMillis + 30 * 1e3;
+
+const allStatuses = ["present", "login", "away", "logout"];
 
 const users = {};
 
@@ -39,11 +44,17 @@ window.onload = (event) => {
   }
 
   defaultGroups.forEach((group) => {
-    console.log({group});
+    console.log({ group });
     $(".categories-container").append(`
       <div id="group-${group.name}"></div>
-    `)
-  })
+    `);
+  });
+
+  const groupElements = renderGroups();
+  groupElements.forEach((groupElement) => {
+    console.log({ groupElement });
+    $(`#${groupElement.id}`).replaceWith(groupElement.element);
+  });
 };
 
 window.addEventListener("onWidgetLoad", function (obj) {
@@ -92,6 +103,8 @@ function handleEvent(eventType, eventDetail) {
           firstMessageTimeMillis: existingUser.firstMessageTimeMillis,
         };
       }
+
+      renderUser(users[ev.userId]);
     }
   }
 }
@@ -105,13 +118,7 @@ function updateUsers() {
 function render() {
   if (doRender) {
     console.log("render");
-    const groupElements = renderGroups();
-    groupElements.forEach(groupElement => {
-      console.log({groupElement})
-      $(`#${groupElement.id}`).replaceWith(groupElement.element);
-    })
   }
-  //doRender = false;
 }
 
 function renderGroups() {
@@ -131,26 +138,63 @@ function renderGroups() {
           </div>
           <div class="user-group-name">${groupName} (${users.length})</div>
         </div>
-        ${users
-          .map(
-            (user) => `
-          <div class="user-row">
-            <div class="user-status-icon user-status-icon-${user.status}">
-              <img src="${defaultIcons[user.status] ?? ""}" />
-            </div>
-            <div class="user-name user-name-${user.status}">${
-              user.displayName
-            }</div>
-          </div>
-        `
-          )
-          .join("")}
       </div>
   `,
     id: `group-${groupName}`,
   }));
 
   return elements;
+}
+
+function renderUser(user) {
+  const existingUserElement = $(`#${getUserId(user)}`);
+  if (!existingUserElement.length) {
+    const group = getUserGroup(user);
+    if (group) {
+      const groupElement = $(`#group-${group.name}`);
+      if (groupElement) {
+        groupElement.append(`
+        <div id="${getUserId(user)}" class="user-row">
+          <div class="user-status-icon">
+            <img src="" />
+          </div>
+          <div class="user-name user-name-${user.status}">${
+          user.displayName
+        }</div>
+        </div>
+      `);
+      }
+      setUserStatus(user);
+    }
+  }
+}
+
+function setUserStatus(user) {
+  const statusClass = `status-${user.status}`;
+
+  const hasStatusClass = !!$(`#${getUserId(user)} .${statusClass}`).length;
+  if (!hasStatusClass) {
+    allStatuses.forEach((status) =>
+      $(`#${getUserId(user)}`).removeClass(`status-${status}`)
+    );
+    $(`#${getUserId(user)}`).addClass(statusClass);
+    $(`#${getUserId(user)}`)
+      .find("img")
+      .attr("src", defaultIcons[user.status] ?? "");
+  }
+}
+
+function removeUser(user) {
+  $(`#${getUserId(user)}`).remove()
+}
+
+function getUserId(user) {
+  return `user-${user.userId}`;
+}
+
+function getUserGroup(user) {
+  const group = defaultGroups.find((group) => group.isInGroup(user));
+  return group;
 }
 
 function updateUserStatuses() {
@@ -163,7 +207,7 @@ function updateUserStatuses() {
     const timeSinceFirstMessage = now - firstMessageTimeMillis;
     const timeSinceLastMessage = now - lastMessageMillis;
 
-    let newStatus = "present"
+    let newStatus = "present";
     if (timeSinceFirstMessage < loginDurationMillis) {
       newStatus = "login";
     }
@@ -182,8 +226,16 @@ function updateUserStatuses() {
       removeUserIds.push(user.userId);
     }
 
-    user.status = newStatus
+    const statusChanged = user.status !== newStatus;
+    user.status = newStatus;
+
+    if (statusChanged) {
+      setUserStatus(user);
+    }
   });
 
-  removeUserIds.forEach((userId) => delete users[userId]);
+  removeUserIds.forEach((userId) => {
+    removeUser(users[userId])
+    delete users[userId]
+  });
 }
