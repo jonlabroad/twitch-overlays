@@ -17,6 +17,7 @@ const isTodayBday = () => {
 
 export const TheSongeryOriginalMusicRavenContainer = (props: TheSongeryOriginalMusicRavenContainerProps) => {
     const [isBday, setIsBday] = useState(isTodayBday());
+    console.log("HERE2");
 
     useEffect(() => {
         setInterval(() => {

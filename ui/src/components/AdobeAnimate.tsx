@@ -1,5 +1,5 @@
 import React, { useState } from "react"
-import AnimateCC, { GetAnimationObjectParameter } from "react-adobe-animate"
+import { AnimateCC, GetAnimationObjectParameter } from "react-adobe-animate"
 import { Helmet } from "react-helmet"
 
 export interface AdobeAnimateProps {

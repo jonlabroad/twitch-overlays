@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useRef, useState } from "react"
-import AnimateCC, { GetAnimationObjectParameter } from "react-adobe-animate"
+import { AnimateCC, GetAnimationObjectParameter } from "react-adobe-animate"
 import { useSonglistControl } from "../../hooks/songlistControlHooks";
 import { SongListStateContext } from "../StreamerSongListContainer";
 

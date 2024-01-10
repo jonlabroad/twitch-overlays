@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useState } from "react"
-import AnimateCC, { GetAnimationObjectParameter } from "react-adobe-animate";
+import { AnimateCC, GetAnimationObjectParameter } from "react-adobe-animate"
 import { FollowerEvent } from "../../service/StreamElementsTypes"
 import { StreamElementsStateContext } from "../StreamElementsContainer";
 
@@ -13,8 +13,7 @@ export const HoagieFollowerAlert = (props: HoagieFollowerAlertProps) => {
 
     const seContext = useContext(StreamElementsStateContext);
     const latestFollow = seContext.state.followers.follows[seContext.state.followers.follows.length - 1];
-console.log({currentFollows});
-console.log({displayFollow});
+
     useEffect(() => {
         console.log({streamAlert: (window as any).streamAlert});
         if (latestFollow) {

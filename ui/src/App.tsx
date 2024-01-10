@@ -6,11 +6,11 @@ import { HoagieFollowerAlertContainer } from './components/Follower/HoagieFollow
 import { TheSongeryOriginalMusicContainer } from './components/TheSongeryOriginalMusic/TheSongeryOriginalMusicContainer';
 import { TheSongeryOriginalMusicRavenContainer } from './components/TheSongeryOriginalMusicRaven/TheSongeryOriginalMusicRavenContainer';
 import { TheSongeryOriginalMusicBdayContainer } from './components/TheSongeryOriginalMusicRavenBday/TheSongeryOriginalMusicBdayContainer';
-import { BuddyList } from './components/AIM/BuddyList/BuddyList';
 
 import './App.css';
 
 export default function App() {
+
   return (
       <Router>
         <Switch>
@@ -32,11 +32,6 @@ export default function App() {
           <Route path={`/${Config.componentsPath}/theSongeryOriginalMusicBday`}>
             <ComponentPage>
               <TheSongeryOriginalMusicBdayContainer />
-            </ComponentPage>
-          </Route>
-          <Route path={`/${Config.componentsPath}/aim/buddyList`}>
-            <ComponentPage>
-              <BuddyList />
             </ComponentPage>
           </Route>
         </Switch>

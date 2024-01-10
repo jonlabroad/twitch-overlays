@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useRef, useState } from "react"
-import AnimateCC, { GetAnimationObjectParameter } from "react-adobe-animate"
+import { AnimateCC, GetAnimationObjectParameter } from "react-adobe-animate"
 import { useSonglistControl } from "../../hooks/songlistControlHooks";
 import { SongListStateContext } from "../StreamerSongListContainer";
 
@@ -21,6 +21,8 @@ export const TheSongeryOriginalMusicRaven = (props: TheSongeryOriginalMusicRaven
     const currentListSongRef = useRef(songListContext.state.songQueue?.list[0]?.song);
 
     const currentListSong = songListContext.state.songQueue?.list[0]?.song;
+
+    console.log("HERE THO?");
 
     useEffect(() => {
         currentListSongRef.current = currentListSong;

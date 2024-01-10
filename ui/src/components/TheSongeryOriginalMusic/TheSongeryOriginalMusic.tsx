@@ -1,5 +1,5 @@
 import React, { useContext, useEffect, useRef, useState } from "react"
-import AnimateCC, { GetAnimationObjectParameter } from "react-adobe-animate"
+import { AnimateCC, GetAnimationObjectParameter } from "react-adobe-animate"
 import { SongListStateContext } from "../StreamerSongListContainer";
 
 const delay = 1.5;
