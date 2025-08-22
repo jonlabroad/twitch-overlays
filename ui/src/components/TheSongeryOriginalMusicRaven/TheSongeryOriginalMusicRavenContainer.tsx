@@ -7,6 +7,13 @@ export interface TheSongeryOriginalMusicRavenContainerProps {
 
 }
 
+const isExtendedBday = () => {
+    const now = new Date();
+    if (now.getMonth() === 7 && now.getDate() >= 20 && now.getDate() <= 24) {
+        return true;
+    }
+}
+
 const isTodayBday = () => {
     const now = new Date();
     if (now.getMonth() === 7 && now.getDate() === 20) {
@@ -16,14 +23,13 @@ const isTodayBday = () => {
 }
 
 export const TheSongeryOriginalMusicRavenContainer = (props: TheSongeryOriginalMusicRavenContainerProps) => {
-    const [isBday, setIsBday] = useState(isTodayBday());
-    console.log("HERE2");
+    const [isBday, setIsBday] = useState(isTodayBday() || isExtendedBday());
 
     useEffect(() => {
         setInterval(() => {
-            if (!isBday && isTodayBday()) {
+            if (!isBday && (isTodayBday() || isExtendedBday())) {
                 setIsBday(true);
-            } else if (isBday && !isTodayBday()) {
+            } else if (isBday && !(isTodayBday() || isExtendedBday())) {
                 setIsBday(false);
             }
         }, 10000)
