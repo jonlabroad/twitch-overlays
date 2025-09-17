@@ -6,13 +6,14 @@ import { SongListStateContext } from "../StreamerSongListContainer";
 const delay = 1.5;
 
 function isOriginal(currentListSongRef: any) {
+    console.log({ currentListSongRef });
     return currentListSongRef.current && (currentListSongRef.current.artist === "Hoagie Man" || currentListSongRef.current.artist.toLowerCase().includes("the songery"));
 }
 
-export interface TheSongeryOriginalMusicRavenProps {
+export interface TheSongeryOriginalMusicHalloweenProps {
 }
 
-export const TheSongeryOriginalMusicRaven = (props: TheSongeryOriginalMusicRavenProps) => {
+export const TheSongeryOriginalMusicHalloween = (props: TheSongeryOriginalMusicHalloweenProps) => {
     const [animationObject, getAnimationObject] = useState<GetAnimationObjectParameter | null>(null);
 
     const [activated, setActivated] = useState(false);
@@ -44,7 +45,7 @@ export const TheSongeryOriginalMusicRaven = (props: TheSongeryOriginalMusicRaven
 
     return <React.Fragment>
         <AnimateCC
-            animationName={"originalMusicRaven"}
+            animationName="originalMusicRavenHalloween2025"
             getAnimationObject={getAnimationObject}
             paused={false}
         />

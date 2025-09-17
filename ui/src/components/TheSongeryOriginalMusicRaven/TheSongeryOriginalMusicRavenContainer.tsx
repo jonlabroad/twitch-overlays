@@ -2,6 +2,7 @@ import React, { useEffect, useRef, useState } from "react"
 import { StreamerSongListContainer } from "../StreamerSongListContainer"
 import { TheSongeryOriginalMusicBday } from "../TheSongeryOriginalMusicRavenBday/TheSongeryOriginalMusicBday";
 import { TheSongeryOriginalMusicRaven } from "./TheSongeryOriginalMusicRaven"
+import { TheSongeryOriginalMusicHalloweenContainer } from "../TheSongeryOriginalMusicRavenHalloween/TheSongeryOriginalMusicHalloweenContainer";
 
 export interface TheSongeryOriginalMusicRavenContainerProps {
 
@@ -22,11 +23,25 @@ const isTodayBday = () => {
     return false;
 }
 
+const isHalloweenPeriod = () => {
+    const now = new Date();
+    if ((now.getMonth() === 9 && now.getDate() >= 26) || (now.getMonth() === 10 && now.getDate() <= 1)) {
+        return true;
+    }
+}
+
 export const TheSongeryOriginalMusicRavenContainer = (props: TheSongeryOriginalMusicRavenContainerProps) => {
     const [isBday, setIsBday] = useState(isTodayBday() || isExtendedBday());
+    const [isHalloween, setIsHalloween] = useState(isHalloweenPeriod());
 
     useEffect(() => {
         setInterval(() => {
+            if (!isHalloween && isHalloweenPeriod()) {
+                setIsHalloween(true);
+            } else if (isHalloween && !isHalloweenPeriod()) {
+                setIsHalloween(false);
+            }
+
             if (!isBday && (isTodayBday() || isExtendedBday())) {
                 setIsBday(true);
             } else if (isBday && !(isTodayBday() || isExtendedBday())) {
@@ -36,6 +51,10 @@ export const TheSongeryOriginalMusicRavenContainer = (props: TheSongeryOriginalM
     }, [])
 
     return <StreamerSongListContainer>
-        {isBday ? <TheSongeryOriginalMusicBday /> : <TheSongeryOriginalMusicRaven />}
+        {isBday ? <TheSongeryOriginalMusicBday /> :
+        (
+            isHalloween ? <TheSongeryOriginalMusicHalloweenContainer /> : <TheSongeryOriginalMusicRaven />
+        )
+        }
     </StreamerSongListContainer>
 }

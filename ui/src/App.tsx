@@ -8,6 +8,7 @@ import { TheSongeryOriginalMusicRavenContainer } from './components/TheSongeryOr
 import { TheSongeryOriginalMusicBdayContainer } from './components/TheSongeryOriginalMusicRavenBday/TheSongeryOriginalMusicBdayContainer';
 
 import './App.css';
+import { TheSongeryOriginalMusicHalloweenContainer } from './components/TheSongeryOriginalMusicRavenHalloween/TheSongeryOriginalMusicHalloweenContainer';
 
 export default function App() {
 
@@ -32,6 +33,11 @@ export default function App() {
           <Route path={`/${Config.componentsPath}/theSongeryOriginalMusicBday`}>
             <ComponentPage>
               <TheSongeryOriginalMusicBdayContainer />
+            </ComponentPage>
+          </Route>
+          <Route path={`/${Config.componentsPath}/theSongeryOriginalMusicHalloween`}>
+            <ComponentPage>
+              <TheSongeryOriginalMusicHalloweenContainer />
             </ComponentPage>
           </Route>
         </Switch>
