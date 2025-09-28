@@ -25,7 +25,7 @@ const isTodayBday = () => {
 
 const isHalloweenPeriod = () => {
     const now = new Date();
-    if ((now.getMonth() === 9 && now.getDate() >= 26) || (now.getMonth() === 10 && now.getDate() <= 1)) {
+    if ((now.getMonth() === 8 && now.getDate() >= 26) || (now.getMonth() === 10 && now.getDate() <= 1)) {
         return true;
     }
 }
