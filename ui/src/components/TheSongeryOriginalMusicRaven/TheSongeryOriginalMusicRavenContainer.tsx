@@ -25,9 +25,17 @@ const isTodayBday = () => {
 
 const isHalloweenPeriod = () => {
     const now = new Date();
-    if ((now.getMonth() === 8 && now.getDate() >= 26) || (now.getMonth() === 10 && now.getDate() <= 1)) {
+    // September 26 (8, 26) to November 1 (10, 1) inclusive
+    const month = now.getMonth();
+    const day = now.getDate();
+    if (
+        (month === 8 && day >= 26) || // Sept 26-30
+        (month === 9) ||              // All of October
+        (month === 10 && day === 1)   // Nov 1
+    ) {
         return true;
     }
+    return false;
 }
 
 export const TheSongeryOriginalMusicRavenContainer = (props: TheSongeryOriginalMusicRavenContainerProps) => {
