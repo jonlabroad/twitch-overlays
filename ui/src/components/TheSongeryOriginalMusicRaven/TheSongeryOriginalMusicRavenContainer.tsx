@@ -37,7 +37,7 @@ const isHalloweenPeriod = () => {
     return false;
 }
 
-export const TheSongeryOriginalMusicRavenContainer = (props: TheSongeryOriginalMusicRavenContainerProps) => {
+export const TheSongeryOriginalMusicRavenContainer = (props: IProps) => {
     const [isBday, setIsBday] = useState(isTodayBday() || isExtendedBday());
     const [isHalloween, setIsHalloween] = useState(isHalloweenPeriod());
 
