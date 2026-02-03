@@ -1,0 +1,1839 @@
+{
+  "frames": {
+    "TheSongeryOriginalMusic111.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 1018,
+        "h": 306
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 23,
+        "w": 1018,
+        "h": 306
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic112.png": {
+      "frame": {
+        "x": 1018,
+        "y": 0,
+        "w": 1018,
+        "h": 306
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 23,
+        "w": 1018,
+        "h": 306
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic136.png": {
+      "frame": {
+        "x": 2036,
+        "y": 0,
+        "w": 1016,
+        "h": 331
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 0,
+        "w": 1016,
+        "h": 331
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic137.png": {
+      "frame": {
+        "x": 3052,
+        "y": 0,
+        "w": 1016,
+        "h": 331
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 0,
+        "w": 1016,
+        "h": 331
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic141.png": {
+      "frame": {
+        "x": 0,
+        "y": 306,
+        "w": 1008,
+        "h": 322
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 9,
+        "w": 1008,
+        "h": 322
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic142.png": {
+      "frame": {
+        "x": 1008,
+        "y": 306,
+        "w": 1008,
+        "h": 322
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 9,
+        "w": 1008,
+        "h": 322
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic153.png": {
+      "frame": {
+        "x": 2016,
+        "y": 331,
+        "w": 979,
+        "h": 320
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 11,
+        "w": 979,
+        "h": 320
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic154.png": {
+      "frame": {
+        "x": 2995,
+        "y": 331,
+        "w": 979,
+        "h": 320
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 11,
+        "w": 979,
+        "h": 320
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic927.png": {
+      "frame": {
+        "x": 3974,
+        "y": 331,
+        "w": 162,
+        "h": 96
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 986,
+        "y": 36,
+        "w": 162,
+        "h": 96
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic926.png": {
+      "frame": {
+        "x": 3974,
+        "y": 493,
+        "w": 95,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1054,
+        "y": 78,
+        "w": 95,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic928.png": {
+      "frame": {
+        "x": 3974,
+        "y": 549,
+        "w": 154,
+        "h": 92
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 993,
+        "y": 39,
+        "w": 154,
+        "h": 92
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic155.png": {
+      "frame": {
+        "x": 0,
+        "y": 628,
+        "w": 979,
+        "h": 320
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 11,
+        "w": 979,
+        "h": 320
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic146.png": {
+      "frame": {
+        "x": 979,
+        "y": 628,
+        "w": 973,
+        "h": 322
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 9,
+        "w": 973,
+        "h": 322
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic147.png": {
+      "frame": {
+        "x": 0,
+        "y": 948,
+        "w": 973,
+        "h": 322
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 9,
+        "w": 973,
+        "h": 322
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic937.png": {
+      "frame": {
+        "x": 1952,
+        "y": 628,
+        "w": 86,
+        "h": 51
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1056,
+        "y": 65,
+        "w": 86,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic148.png": {
+      "frame": {
+        "x": 2003,
+        "y": 651,
+        "w": 965,
+        "h": 331
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 0,
+        "w": 965,
+        "h": 331
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic149.png": {
+      "frame": {
+        "x": 2968,
+        "y": 651,
+        "w": 965,
+        "h": 331
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 0,
+        "w": 965,
+        "h": 331
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic921.png": {
+      "frame": {
+        "x": 3933,
+        "y": 703,
+        "w": 202,
+        "h": 160
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 944,
+        "y": 18,
+        "w": 202,
+        "h": 160
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic907.png": {
+      "frame": {
+        "x": 3933,
+        "y": 905,
+        "w": 271,
+        "h": 155
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 837,
+        "y": 65,
+        "w": 271,
+        "h": 155
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic150.png": {
+      "frame": {
+        "x": 973,
+        "y": 950,
+        "w": 965,
+        "h": 331
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 0,
+        "w": 965,
+        "h": 331
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic156.png": {
+      "frame": {
+        "x": 0,
+        "y": 1270,
+        "w": 963,
+        "h": 299
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 32,
+        "w": 963,
+        "h": 299
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic157.png": {
+      "frame": {
+        "x": 1938,
+        "y": 982,
+        "w": 963,
+        "h": 299
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 32,
+        "w": 963,
+        "h": 299
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic166.png": {
+      "frame": {
+        "x": 2901,
+        "y": 982,
+        "w": 935,
+        "h": 306
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 25,
+        "w": 935,
+        "h": 306
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic838.png": {
+      "frame": {
+        "x": 3836,
+        "y": 1281,
+        "w": 800,
+        "h": 259
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 264,
+        "y": 130,
+        "w": 800,
+        "h": 259
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic167.png": {
+      "frame": {
+        "x": 963,
+        "y": 1281,
+        "w": 935,
+        "h": 306
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 25,
+        "w": 935,
+        "h": 306
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic158.png": {
+      "frame": {
+        "x": 0,
+        "y": 1569,
+        "w": 930,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 35,
+        "w": 930,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic159.png": {
+      "frame": {
+        "x": 1898,
+        "y": 1281,
+        "w": 930,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 35,
+        "w": 930,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic160.png": {
+      "frame": {
+        "x": 2828,
+        "y": 1288,
+        "w": 930,
+        "h": 296
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 35,
+        "w": 930,
+        "h": 296
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic168.png": {
+      "frame": {
+        "x": 1898,
+        "y": 1577,
+        "w": 928,
+        "h": 289
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 42,
+        "w": 928,
+        "h": 289
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic169.png": {
+      "frame": {
+        "x": 930,
+        "y": 1587,
+        "w": 928,
+        "h": 289
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 42,
+        "w": 928,
+        "h": 289
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic170.png": {
+      "frame": {
+        "x": 0,
+        "y": 1865,
+        "w": 928,
+        "h": 289
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 42,
+        "w": 928,
+        "h": 289
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic163.png": {
+      "frame": {
+        "x": 2826,
+        "y": 1584,
+        "w": 925,
+        "h": 301
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 30,
+        "w": 925,
+        "h": 301
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic164.png": {
+      "frame": {
+        "x": 1858,
+        "y": 1866,
+        "w": 925,
+        "h": 301
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 30,
+        "w": 925,
+        "h": 301
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic165.png": {
+      "frame": {
+        "x": 928,
+        "y": 1876,
+        "w": 925,
+        "h": 301
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 30,
+        "w": 925,
+        "h": 301
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic161.png": {
+      "frame": {
+        "x": 0,
+        "y": 2154,
+        "w": 922,
+        "h": 298
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 33,
+        "w": 922,
+        "h": 298
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic162.png": {
+      "frame": {
+        "x": 2783,
+        "y": 1885,
+        "w": 922,
+        "h": 298
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 33,
+        "w": 922,
+        "h": 298
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic851.png": {
+      "frame": {
+        "x": 3705,
+        "y": 2167,
+        "w": 800,
+        "h": 389
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 264,
+        "y": 0,
+        "w": 800,
+        "h": 389
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic911.png": {
+      "frame": {
+        "x": 3705,
+        "y": 1885,
+        "w": 269,
+        "h": 126
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 873,
+        "y": 82,
+        "w": 269,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic172.png": {
+      "frame": {
+        "x": 1853,
+        "y": 2167,
+        "w": 921,
+        "h": 277
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 59,
+        "w": 921,
+        "h": 277
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic171.png": {
+      "frame": {
+        "x": 1853,
+        "y": 2444,
+        "w": 921,
+        "h": 272
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 59,
+        "w": 921,
+        "h": 272
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic173.png": {
+      "frame": {
+        "x": 2774,
+        "y": 2183,
+        "w": 907,
+        "h": 268
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 68,
+        "w": 907,
+        "h": 268
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic174.png": {
+      "frame": {
+        "x": 2774,
+        "y": 2451,
+        "w": 907,
+        "h": 268
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 68,
+        "w": 907,
+        "h": 268
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic175.png": {
+      "frame": {
+        "x": 922,
+        "y": 2177,
+        "w": 907,
+        "h": 268
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 68,
+        "w": 907,
+        "h": 268
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic232.png": {
+      "frame": {
+        "x": 922,
+        "y": 2445,
+        "w": 902,
+        "h": 328
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 206,
+        "y": 125,
+        "w": 902,
+        "h": 328
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic231.png": {
+      "frame": {
+        "x": 0,
+        "y": 2716,
+        "w": 901,
+        "h": 327
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 207,
+        "y": 125,
+        "w": 901,
+        "h": 327
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic181.png": {
+      "frame": {
+        "x": 0,
+        "y": 2452,
+        "w": 886,
+        "h": 264
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 72,
+        "w": 886,
+        "h": 264
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic205.png": {
+      "frame": {
+        "x": 1824,
+        "y": 2716,
+        "w": 899,
+        "h": 289
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 127,
+        "w": 899,
+        "h": 289
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic204.png": {
+      "frame": {
+        "x": 901,
+        "y": 2773,
+        "w": 899,
+        "h": 288
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 127,
+        "w": 899,
+        "h": 288
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic203.png": {
+      "frame": {
+        "x": 0,
+        "y": 3043,
+        "w": 899,
+        "h": 287
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 127,
+        "w": 899,
+        "h": 287
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic014.png": {
+      "frame": {
+        "x": 0,
+        "y": 3330,
+        "w": 701,
+        "h": 202
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 127,
+        "w": 701,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic015.png": {
+      "frame": {
+        "x": 202,
+        "y": 3330,
+        "w": 701,
+        "h": 202
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 127,
+        "w": 701,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic016.png": {
+      "frame": {
+        "x": 404,
+        "y": 3330,
+        "w": 701,
+        "h": 202
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 127,
+        "w": 701,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic017.png": {
+      "frame": {
+        "x": 606,
+        "y": 3330,
+        "w": 701,
+        "h": 202
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 127,
+        "w": 701,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic018.png": {
+      "frame": {
+        "x": 808,
+        "y": 3330,
+        "w": 701,
+        "h": 202
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 127,
+        "w": 701,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic910.png": {
+      "frame": {
+        "x": 899,
+        "y": 3061,
+        "w": 269,
+        "h": 138
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 864,
+        "y": 73,
+        "w": 269,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic019.png": {
+      "frame": {
+        "x": 1010,
+        "y": 3330,
+        "w": 701,
+        "h": 202
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 127,
+        "w": 701,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic178.png": {
+      "frame": {
+        "x": 1037,
+        "y": 3061,
+        "w": 873,
+        "h": 265
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 71,
+        "w": 873,
+        "h": 265
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic020.png": {
+      "frame": {
+        "x": 1212,
+        "y": 3326,
+        "w": 701,
+        "h": 202
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 127,
+        "w": 701,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic021.png": {
+      "frame": {
+        "x": 1414,
+        "y": 3326,
+        "w": 701,
+        "h": 202
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 127,
+        "w": 701,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic022.png": {
+      "frame": {
+        "x": 1616,
+        "y": 3326,
+        "w": 701,
+        "h": 202
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 127,
+        "w": 701,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic023.png": {
+      "frame": {
+        "x": 1818,
+        "y": 3326,
+        "w": 701,
+        "h": 202
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 127,
+        "w": 701,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic184.png": {
+      "frame": {
+        "x": 1910,
+        "y": 3005,
+        "w": 878,
+        "h": 321
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 71,
+        "w": 878,
+        "h": 321
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic191.png": {
+      "frame": {
+        "x": 2723,
+        "y": 2719,
+        "w": 864,
+        "h": 286
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 114,
+        "w": 864,
+        "h": 286
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic024.png": {
+      "frame": {
+        "x": 2020,
+        "y": 3326,
+        "w": 701,
+        "h": 202
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 127,
+        "w": 701,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic025.png": {
+      "frame": {
+        "x": 2222,
+        "y": 3326,
+        "w": 701,
+        "h": 202
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 127,
+        "w": 701,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic026.png": {
+      "frame": {
+        "x": 2424,
+        "y": 3326,
+        "w": 701,
+        "h": 202
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 127,
+        "w": 701,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic027.png": {
+      "frame": {
+        "x": 2626,
+        "y": 3326,
+        "w": 701,
+        "h": 202
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 127,
+        "w": 701,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic185.png": {
+      "frame": {
+        "x": 2788,
+        "y": 3005,
+        "w": 878,
+        "h": 321
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 71,
+        "w": 878,
+        "h": 321
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic852.png": {
+      "frame": {
+        "x": 3666,
+        "y": 3005,
+        "w": 800,
+        "h": 389
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 264,
+        "y": 0,
+        "w": 800,
+        "h": 389
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic206.png": {
+      "frame": {
+        "x": 2828,
+        "y": 3805,
+        "w": 890,
+        "h": 291
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 210,
+        "y": 127,
+        "w": 890,
+        "h": 291
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic896.png": {
+      "frame": {
+        "x": 2828,
+        "y": 3326,
+        "w": 824,
+        "h": 304
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 264,
+        "y": 85,
+        "w": 824,
+        "h": 304
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic919.png": {
+      "frame": {
+        "x": 2828,
+        "y": 3630,
+        "w": 208,
+        "h": 173
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 929,
+        "y": 12,
+        "w": 208,
+        "h": 173
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic920.png": {
+      "frame": {
+        "x": 3036,
+        "y": 3630,
+        "w": 200,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 937,
+        "y": 15,
+        "w": 200,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic908.png": {
+      "frame": {
+        "x": 3236,
+        "y": 3630,
+        "w": 265,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 846,
+        "y": 66,
+        "w": 265,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic912.png": {
+      "frame": {
+        "x": 3718,
+        "y": 3805,
+        "w": 262,
+        "h": 123
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 880,
+        "y": 82,
+        "w": 262,
+        "h": 123
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusic914.png": {
+      "frame": {
+        "x": 3841,
+        "y": 3805,
+        "w": 243,
+        "h": 199
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 894,
+        "y": 0,
+        "w": 243,
+        "h": 199
+      },
+      "sourceSize": {
+        "w": 1280,
+        "h": 456
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "TheSongeryOriginalMusic-1.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4095,
+      "h": 4096
+    },
+    "scale": 1
+  }
+}

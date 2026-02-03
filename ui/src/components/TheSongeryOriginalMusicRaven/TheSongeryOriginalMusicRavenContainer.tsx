@@ -3,8 +3,7 @@ import { StreamerSongListContainer } from "../StreamerSongListContainer"
 import { TheSongeryOriginalMusicBday } from "../TheSongeryOriginalMusicRavenBday/TheSongeryOriginalMusicBday";
 import { TheSongeryOriginalMusicRaven } from "./TheSongeryOriginalMusicRaven"
 
-export interface TheSongeryOriginalMusicRavenContainerProps {
-
+export interface IProps {
 }
 
 const isTodayBday = () => {
@@ -15,9 +14,8 @@ const isTodayBday = () => {
     return false;
 }
 
-export const TheSongeryOriginalMusicRavenContainer = (props: TheSongeryOriginalMusicRavenContainerProps) => {
+export const TheSongeryOriginalMusicRavenContainer = (props: IProps) => {
     const [isBday, setIsBday] = useState(isTodayBday());
-    console.log("HERE2");
 
     useEffect(() => {
         setInterval(() => {

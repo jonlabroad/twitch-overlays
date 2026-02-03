@@ -15,12 +15,13 @@ export interface StreamerSongListContainerProps {
 
 export const StreamerSongListContainer = (props: StreamerSongListContainerProps) => {
     const { children } = props;
-
+    console.log("HERE");
     const [songListState, songListStateDispatch] = useReducer(songListStateReducer, {
         ...defaultSongListState,
     } as SongListState);
 
     const streamer = useStreamer() ?? "";
+    console.log({ streamer });
 
     useStreamerSongListEvents(streamer, songListStateDispatch);
 

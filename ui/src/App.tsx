@@ -4,10 +4,11 @@ import { HashRouter as Router, Route, Switch, useLocation } from 'react-router-d
 import { ComponentPage } from './components/ComponentPage';
 import { HoagieFollowerAlertContainer } from './components/Follower/HoagieFollowerAlertContainer';
 import { TheSongeryOriginalMusicContainer } from './components/TheSongeryOriginalMusic/TheSongeryOriginalMusicContainer';
-import { TheSongeryOriginalMusicRavenContainer } from './components/TheSongeryOriginalMusicRaven/TheSongeryOriginalMusicRavenContainer';
+import { TheSongeryOriginalMusicRavenLegacyContainer } from './components/TheSongeryOriginalMusicRavenLegacy/TheSongeryOriginalMusicRavenLegacyContainer';
 import { TheSongeryOriginalMusicBdayContainer } from './components/TheSongeryOriginalMusicRavenBday/TheSongeryOriginalMusicBdayContainer';
 
 import './App.css';
+import { TheSongeryOriginalMusicRavenContainer } from './components/TheSongeryOriginalMusicRaven/TheSongeryOriginalMusicRavenContainer';
 
 export default function App() {
 
@@ -32,6 +33,11 @@ export default function App() {
           <Route path={`/${Config.componentsPath}/theSongeryOriginalMusicBday`}>
             <ComponentPage>
               <TheSongeryOriginalMusicBdayContainer />
+            </ComponentPage>
+          </Route>
+          <Route path={`/${Config.componentsPath}/theSongeryOriginalMusicRavenLegacy`}>
+            <ComponentPage>
+              <TheSongeryOriginalMusicRavenLegacyContainer />
             </ComponentPage>
           </Route>
         </Switch>
