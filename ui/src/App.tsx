@@ -9,6 +9,7 @@ import { TheSongeryOriginalMusicBdayContainer } from './components/TheSongeryOri
 
 import './App.css';
 import { TheSongeryOriginalMusicRavenContainer } from './components/TheSongeryOriginalMusicRaven/TheSongeryOriginalMusicRavenContainer';
+import { TheSongeryOriginalMusicHalloweenContainer } from './components/TheSongeryOriginalMusicRavenHalloween/TheSongeryOriginalMusicHalloweenContainer';
 
 export default function App() {
 
@@ -38,6 +39,11 @@ export default function App() {
           <Route path={`/${Config.componentsPath}/theSongeryOriginalMusicRavenLegacy`}>
             <ComponentPage>
               <TheSongeryOriginalMusicRavenLegacyContainer />
+            </ComponentPage>
+          </Route>
+          <Route path={`/${Config.componentsPath}/theSongeryOriginalMusicHalloween`}>
+            <ComponentPage>
+              <TheSongeryOriginalMusicHalloweenContainer />
             </ComponentPage>
           </Route>
         </Switch>
