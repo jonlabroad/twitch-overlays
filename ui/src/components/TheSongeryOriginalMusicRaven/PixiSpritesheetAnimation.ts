@@ -3,8 +3,8 @@ import * as PIXI from "pixi.js";
 export interface PixiSpritesheetAnimationConfig {
   /** Path to the folder containing spritesheet files */
   path: string;
-  /** Filename pattern with {n} as placeholder for number (e.g., 'sprite-{n}.json') */
-  filePattern: string;
+  /** Array of spritesheet filenames (e.g., ['sheet-0.json', 'sheet-1.json']) */
+  spritesheetFiles: string[];
   /** Frames per second for the animation (default: 60) */
   fps?: number;
   /** Whether the animation should loop (default: false) */
@@ -76,35 +76,22 @@ export class PixiSpritesheetAnimation {
     containerElement.appendChild(app.canvas as HTMLCanvasElement);
     this.app = app;
 
-    // Auto-discover spritesheet files by trying to load sequentially numbered files
+    // Ensure stage is available
+    if (!app.stage) {
+      throw new Error("PixiJS stage not initialized");
+    }
+
+    // Build atlas URLs from path and filenames
+    const atlasUrls = this.config.spritesheetFiles.map(
+      (file) => `${this.config.path}/${file}`
+    );
+
+    // Load all atlas files as spritesheets
     const loadedSpritesheets: any[] = [];
-    let fileIndex = 0;
-    let consecutiveFailures = 0;
-    const maxConsecutiveFailures = 3; // Stop after 3 consecutive failures
-
-    while (consecutiveFailures < maxConsecutiveFailures) {
-      const filename = this.config.filePattern.replace("{n}", String(fileIndex));
-      const url = `${this.config.path}/${filename}`;
-      
-      try {
-        const spritesheet = await PIXI.Assets.load(url);
-        loadedSpritesheets.push(spritesheet);
-        consecutiveFailures = 0; // Reset on success
-        fileIndex++;
-      } catch (error) {
-        console.log(`Failed to load ${url}, trying next...`);
-        consecutiveFailures++;
-        fileIndex++;
-      }
+    for (const url of atlasUrls) {
+      const spritesheet = await PIXI.Assets.load(url);
+      loadedSpritesheets.push(spritesheet);
     }
-
-    if (loadedSpritesheets.length === 0) {
-      throw new Error(
-        `No spritesheet files found at ${this.config.path} with pattern ${this.config.filePattern}`
-      );
-    }
-
-    console.log(`Loaded ${loadedSpritesheets.length} spritesheet files`);
 
     // Collect all frame names from all spritesheets
     const allFrameNames: string[] = [];
@@ -173,7 +160,13 @@ export class PixiSpritesheetAnimation {
     // Initial sizing
     this.resizeHandler();
 
-    app.stage.addChild(animatedSprite);
+    // Add sprite to stage
+    if (app.stage) {
+      app.stage.addChild(animatedSprite);
+    } else {
+      throw new Error("PixiJS stage is not available");
+    }
+    
     this.animatedSprite = animatedSprite;
 
     // Listen for resize events

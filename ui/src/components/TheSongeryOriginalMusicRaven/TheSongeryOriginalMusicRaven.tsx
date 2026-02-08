@@ -13,18 +13,24 @@ function isOriginal(currentListSongRef: any) {
   );
 }
 
+const spritesheetPattern = "TheSongeryOriginalMusic-{n}.json";
+const spritesheetCount = 10;
+const spritesheetFiles = Array.from({ length: spritesheetCount }, (_, i) =>
+  spritesheetPattern.replace("{n}", String(i))
+);
+
+// Animation configuration
+const animationConfig = {
+  path: "images/originalMusicRaven",
+  spritesheetFiles,
+  totalFrames: 1000,
+  fps: 60,
+  loop: false,
+};
+
 export interface IProps {}
 
 export const TheSongeryOriginalMusicRaven = (props: IProps) => {
-  // Animation configuration
-  const animationConfig = {
-    path: "images/originalMusicRavenUnadobed",
-    filePattern: "TheSongeryOriginalMusic-{n}.json",
-    totalFrames: 1000,
-    fps: 60,
-    loop: false,
-  };
-
   const canvasRef = useRef<HTMLDivElement>(null);
   const animationRef = useRef<PixiSpritesheetAnimation | null>(null);
   const [animationController, setAnimationController] =
