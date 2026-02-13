@@ -1,0 +1,207 @@
+{
+  "frames": {
+    "TheSongeryOriginalMusicNormal0101.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 526,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 157,
+        "y": 95,
+        "w": 526,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 342
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusicNormal0102.png": {
+      "frame": {
+        "x": 526,
+        "y": 0,
+        "w": 526,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 157,
+        "y": 95,
+        "w": 526,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 342
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusicNormal0103.png": {
+      "frame": {
+        "x": 1052,
+        "y": 0,
+        "w": 526,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 157,
+        "y": 95,
+        "w": 526,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 342
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusicNormal0104.png": {
+      "frame": {
+        "x": 1578,
+        "y": 0,
+        "w": 526,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 157,
+        "y": 95,
+        "w": 526,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 342
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusicNormal0105.png": {
+      "frame": {
+        "x": 2104,
+        "y": 0,
+        "w": 526,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 157,
+        "y": 95,
+        "w": 526,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 342
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusicNormal0108.png": {
+      "frame": {
+        "x": 2630,
+        "y": 0,
+        "w": 526,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 157,
+        "y": 95,
+        "w": 526,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 342
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusicNormal0109.png": {
+      "frame": {
+        "x": 3156,
+        "y": 0,
+        "w": 526,
+        "h": 152
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 157,
+        "y": 95,
+        "w": 526,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 342
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "TheSongeryOriginalMusicNormal0110.png": {
+      "frame": {
+        "x": 3682,
+        "y": 0,
+        "w": 526,
+        "h": 152
+      },
+      "rotated": true,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 157,
+        "y": 95,
+        "w": 526,
+        "h": 152
+      },
+      "sourceSize": {
+        "w": 960,
+        "h": 342
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "TheSongeryOriginalMusicNormal-5.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 3834,
+      "h": 526
+    },
+    "scale": 1
+  }
+}

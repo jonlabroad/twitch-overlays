@@ -13,8 +13,8 @@ function isOriginal(currentListSongRef: any) {
   );
 }
 
-const spritesheetPattern = "TheSongeryOriginalMusic-{n}.json";
-const spritesheetCount = 10;
+const spritesheetPattern = "TheSongeryOriginalMusicNormal-{n}.json";
+const spritesheetCount = 5;
 const spritesheetFiles = Array.from({ length: spritesheetCount }, (_, i) =>
   spritesheetPattern.replace("{n}", String(i))
 );
