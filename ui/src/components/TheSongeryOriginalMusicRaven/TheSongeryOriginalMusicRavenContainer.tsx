@@ -3,6 +3,7 @@ import { StreamerSongListContainer } from "../StreamerSongListContainer"
 import { TheSongeryOriginalMusicBday } from "../TheSongeryOriginalMusicRavenBday/TheSongeryOriginalMusicBday";
 import { TheSongeryOriginalMusicRaven } from "./TheSongeryOriginalMusicRaven"
 import { TheSongeryOriginalMusicHalloweenContainer } from "../TheSongeryOriginalMusicRavenHalloween/TheSongeryOriginalMusicHalloweenContainer";
+import { TheSongeryOriginalMusicRavenValentines } from "../TheSongeryOriginalMusicRavenValentines/TheSongeryOriginalMusicRavenValentines";
 
 export interface IProps {
 }
@@ -37,9 +38,20 @@ const isHalloweenPeriod = () => {
     return false;
 }
 
+const isValentinesPeriod = () => {
+    const now = new Date();
+    const month = now.getMonth();
+    const day = now.getDate();
+    if (month === 1 && day >= 12 && day <= 19) {
+        return true;
+    }
+    return false;
+}
+
 export const TheSongeryOriginalMusicRavenContainer = (props: IProps) => {
     const [isBday, setIsBday] = useState(isTodayBday() || isExtendedBday());
     const [isHalloween, setIsHalloween] = useState(isHalloweenPeriod());
+    const [isValentines, setIsValentines] = useState(isValentinesPeriod());
 
     useEffect(() => {
         setInterval(() => {
@@ -49,18 +61,29 @@ export const TheSongeryOriginalMusicRavenContainer = (props: IProps) => {
                 setIsHalloween(false);
             }
 
+            if (!isValentines && isValentinesPeriod()) {
+                setIsValentines(true);
+            } else if (isValentines && !isValentinesPeriod()) {
+                setIsValentines(false);
+            }
+
             if (!isBday && (isTodayBday() || isExtendedBday())) {
                 setIsBday(true);
             } else if (isBday && !(isTodayBday() || isExtendedBday())) {
                 setIsBday(false);
             }
         }, 10000)
-    }, [])
+    }, []);
+
+    console.log({ isBday, isHalloween, isValentines })
 
     return <StreamerSongListContainer>
         {isBday ? <TheSongeryOriginalMusicBday /> :
         (
-            isHalloween ? <TheSongeryOriginalMusicHalloweenContainer /> : <TheSongeryOriginalMusicRaven />
+            isValentines ? <TheSongeryOriginalMusicRavenValentines /> :
+            (
+                isHalloween ? <TheSongeryOriginalMusicHalloweenContainer /> : <TheSongeryOriginalMusicRaven />
+            )
         )
         }
     </StreamerSongListContainer>

@@ -1,0 +1,9687 @@
+{
+  "frames": {
+    "export/TheSongeryOriginalMusicValentines0681.png": {
+      "frame": {
+        "x": 0,
+        "y": 0,
+        "w": 391,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 9,
+        "y": 26,
+        "w": 391,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0844.png": {
+      "frame": {
+        "x": 391,
+        "y": 0,
+        "w": 390,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 57,
+        "y": 49,
+        "w": 390,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0680.png": {
+      "frame": {
+        "x": 0,
+        "y": 121,
+        "w": 390,
+        "h": 118
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 10,
+        "y": 29,
+        "w": 390,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0362.png": {
+      "frame": {
+        "x": 781,
+        "y": 0,
+        "w": 386,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 55,
+        "y": 0,
+        "w": 386,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0610.png": {
+      "frame": {
+        "x": 390,
+        "y": 122,
+        "w": 386,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 0,
+        "w": 386,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0677.png": {
+      "frame": {
+        "x": 0,
+        "y": 239,
+        "w": 386,
+        "h": 147
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 14,
+        "y": 0,
+        "w": 386,
+        "h": 147
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0676.png": {
+      "frame": {
+        "x": 1167,
+        "y": 0,
+        "w": 384,
+        "h": 147
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 16,
+        "y": 0,
+        "w": 384,
+        "h": 147
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0887.png": {
+      "frame": {
+        "x": 1551,
+        "y": 0,
+        "w": 384,
+        "h": 147
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 96,
+        "y": 0,
+        "w": 384,
+        "h": 147
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0581.png": {
+      "frame": {
+        "x": 1935,
+        "y": 0,
+        "w": 383,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 41,
+        "y": 0,
+        "w": 383,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0675.png": {
+      "frame": {
+        "x": 1167,
+        "y": 147,
+        "w": 383,
+        "h": 147
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 17,
+        "y": 0,
+        "w": 383,
+        "h": 147
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0133.png": {
+      "frame": {
+        "x": 1550,
+        "y": 147,
+        "w": 383,
+        "h": 125
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 0,
+        "w": 383,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0134.png": {
+      "frame": {
+        "x": 776,
+        "y": 171,
+        "w": 383,
+        "h": 125
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 0,
+        "w": 383,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0135.png": {
+      "frame": {
+        "x": 386,
+        "y": 287,
+        "w": 383,
+        "h": 125
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 0,
+        "w": 383,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0138.png": {
+      "frame": {
+        "x": 0,
+        "y": 386,
+        "w": 383,
+        "h": 125
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 0,
+        "w": 383,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0139.png": {
+      "frame": {
+        "x": 2318,
+        "y": 0,
+        "w": 383,
+        "h": 125
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 0,
+        "w": 383,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0140.png": {
+      "frame": {
+        "x": 2701,
+        "y": 0,
+        "w": 383,
+        "h": 125
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 0,
+        "w": 383,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0130.png": {
+      "frame": {
+        "x": 3084,
+        "y": 0,
+        "w": 383,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 1,
+        "w": 383,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0129.png": {
+      "frame": {
+        "x": 3467,
+        "y": 0,
+        "w": 383,
+        "h": 117
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 1,
+        "w": 383,
+        "h": 117
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0128.png": {
+      "frame": {
+        "x": 3467,
+        "y": 117,
+        "w": 383,
+        "h": 111
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 1,
+        "w": 383,
+        "h": 111
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0122.png": {
+      "frame": {
+        "x": 3084,
+        "y": 122,
+        "w": 383,
+        "h": 105
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 0,
+        "w": 383,
+        "h": 105
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0123.png": {
+      "frame": {
+        "x": 2318,
+        "y": 125,
+        "w": 383,
+        "h": 105
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 0,
+        "w": 383,
+        "h": 105
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0124.png": {
+      "frame": {
+        "x": 2701,
+        "y": 125,
+        "w": 383,
+        "h": 105
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 0,
+        "w": 383,
+        "h": 105
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0125.png": {
+      "frame": {
+        "x": 3084,
+        "y": 227,
+        "w": 383,
+        "h": 105
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 0,
+        "w": 383,
+        "h": 105
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0126.png": {
+      "frame": {
+        "x": 1933,
+        "y": 171,
+        "w": 383,
+        "h": 105
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 0,
+        "w": 383,
+        "h": 105
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0120.png": {
+      "frame": {
+        "x": 1550,
+        "y": 272,
+        "w": 383,
+        "h": 104
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 0,
+        "w": 383,
+        "h": 104
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0118.png": {
+      "frame": {
+        "x": 1159,
+        "y": 294,
+        "w": 383,
+        "h": 103
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 0,
+        "w": 383,
+        "h": 103
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0119.png": {
+      "frame": {
+        "x": 769,
+        "y": 296,
+        "w": 383,
+        "h": 103
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 0,
+        "w": 383,
+        "h": 103
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0116.png": {
+      "frame": {
+        "x": 769,
+        "y": 399,
+        "w": 383,
+        "h": 99
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 4,
+        "w": 383,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0117.png": {
+      "frame": {
+        "x": 383,
+        "y": 412,
+        "w": 383,
+        "h": 99
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 4,
+        "w": 383,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0885.png": {
+      "frame": {
+        "x": 3467,
+        "y": 228,
+        "w": 382,
+        "h": 147
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 98,
+        "y": 0,
+        "w": 382,
+        "h": 147
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0886.png": {
+      "frame": {
+        "x": 2316,
+        "y": 230,
+        "w": 382,
+        "h": 147
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 98,
+        "y": 0,
+        "w": 382,
+        "h": 147
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0136.png": {
+      "frame": {
+        "x": 1933,
+        "y": 375,
+        "w": 382,
+        "h": 125
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 0,
+        "w": 382,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0176.png": {
+      "frame": {
+        "x": 1933,
+        "y": 276,
+        "w": 332,
+        "h": 99
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 27,
+        "w": 332,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0137.png": {
+      "frame": {
+        "x": 2698,
+        "y": 230,
+        "w": 382,
+        "h": 125
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 0,
+        "w": 382,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0674.png": {
+      "frame": {
+        "x": 3080,
+        "y": 332,
+        "w": 381,
+        "h": 147
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 19,
+        "y": 0,
+        "w": 381,
+        "h": 147
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0332.png": {
+      "frame": {
+        "x": 2698,
+        "y": 375,
+        "w": 380,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 24,
+        "y": 0,
+        "w": 380,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0609.png": {
+      "frame": {
+        "x": 2315,
+        "y": 377,
+        "w": 380,
+        "h": 167
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 0,
+        "w": 380,
+        "h": 167
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0884.png": {
+      "frame": {
+        "x": 2315,
+        "y": 544,
+        "w": 380,
+        "h": 147
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 98,
+        "y": 0,
+        "w": 380,
+        "h": 147
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0843.png": {
+      "frame": {
+        "x": 1542,
+        "y": 376,
+        "w": 380,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 62,
+        "y": 49,
+        "w": 380,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0334.png": {
+      "frame": {
+        "x": 1152,
+        "y": 397,
+        "w": 379,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 36,
+        "y": 0,
+        "w": 379,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0673.png": {
+      "frame": {
+        "x": 766,
+        "y": 498,
+        "w": 379,
+        "h": 147
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 21,
+        "y": 0,
+        "w": 379,
+        "h": 147
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0141.png": {
+      "frame": {
+        "x": 766,
+        "y": 645,
+        "w": 379,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 3,
+        "w": 379,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0142.png": {
+      "frame": {
+        "x": 766,
+        "y": 767,
+        "w": 379,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 3,
+        "w": 379,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0361.png": {
+      "frame": {
+        "x": 1531,
+        "y": 498,
+        "w": 376,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 61,
+        "y": 0,
+        "w": 376,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0294.png": {
+      "frame": {
+        "x": 1145,
+        "y": 568,
+        "w": 372,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 43,
+        "y": 33,
+        "w": 372,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0842.png": {
+      "frame": {
+        "x": 1907,
+        "y": 500,
+        "w": 372,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 66,
+        "y": 49,
+        "w": 372,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0333.png": {
+      "frame": {
+        "x": 1907,
+        "y": 622,
+        "w": 371,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 39,
+        "y": 0,
+        "w": 371,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0607.png": {
+      "frame": {
+        "x": 1517,
+        "y": 691,
+        "w": 370,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 45,
+        "y": 0,
+        "w": 370,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0668.png": {
+      "frame": {
+        "x": 1145,
+        "y": 706,
+        "w": 370,
+        "h": 147
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 30,
+        "y": 0,
+        "w": 370,
+        "h": 147
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0151.png": {
+      "frame": {
+        "x": 1145,
+        "y": 853,
+        "w": 370,
+        "h": 125
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 0,
+        "w": 370,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0152.png": {
+      "frame": {
+        "x": 3461,
+        "y": 375,
+        "w": 370,
+        "h": 125
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 0,
+        "w": 370,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0057.png": {
+      "frame": {
+        "x": 3831,
+        "y": 375,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0058.png": {
+      "frame": {
+        "x": 3831,
+        "y": 431,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0059.png": {
+      "frame": {
+        "x": 3831,
+        "y": 487,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0579.png": {
+      "frame": {
+        "x": 3078,
+        "y": 479,
+        "w": 369,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 48,
+        "y": 0,
+        "w": 369,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0667.png": {
+      "frame": {
+        "x": 3078,
+        "y": 650,
+        "w": 369,
+        "h": 147
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 31,
+        "y": 0,
+        "w": 369,
+        "h": 147
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0143.png": {
+      "frame": {
+        "x": 3078,
+        "y": 797,
+        "w": 369,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 4,
+        "w": 369,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0144.png": {
+      "frame": {
+        "x": 3078,
+        "y": 918,
+        "w": 369,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 4,
+        "w": 369,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0145.png": {
+      "frame": {
+        "x": 3078,
+        "y": 1039,
+        "w": 369,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 4,
+        "w": 369,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0153.png": {
+      "frame": {
+        "x": 2695,
+        "y": 546,
+        "w": 368,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 4,
+        "w": 368,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0154.png": {
+      "frame": {
+        "x": 2695,
+        "y": 667,
+        "w": 368,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 4,
+        "w": 368,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0155.png": {
+      "frame": {
+        "x": 3447,
+        "y": 500,
+        "w": 368,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 4,
+        "w": 368,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0060.png": {
+      "frame": {
+        "x": 3815,
+        "y": 543,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0061.png": {
+      "frame": {
+        "x": 3815,
+        "y": 599,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0146.png": {
+      "frame": {
+        "x": 3447,
+        "y": 621,
+        "w": 366,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 3,
+        "w": 366,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0062.png": {
+      "frame": {
+        "x": 3813,
+        "y": 655,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0063.png": {
+      "frame": {
+        "x": 3813,
+        "y": 711,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0147.png": {
+      "frame": {
+        "x": 3447,
+        "y": 743,
+        "w": 366,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 3,
+        "w": 366,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0064.png": {
+      "frame": {
+        "x": 3813,
+        "y": 767,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0065.png": {
+      "frame": {
+        "x": 3813,
+        "y": 823,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0606.png": {
+      "frame": {
+        "x": 3447,
+        "y": 865,
+        "w": 365,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 46,
+        "y": 0,
+        "w": 365,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0066.png": {
+      "frame": {
+        "x": 3812,
+        "y": 879,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0067.png": {
+      "frame": {
+        "x": 3812,
+        "y": 935,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0068.png": {
+      "frame": {
+        "x": 3812,
+        "y": 991,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0148.png": {
+      "frame": {
+        "x": 3447,
+        "y": 1036,
+        "w": 362,
+        "h": 125
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 0,
+        "w": 362,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0069.png": {
+      "frame": {
+        "x": 3809,
+        "y": 1047,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0070.png": {
+      "frame": {
+        "x": 3809,
+        "y": 1103,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0071.png": {
+      "frame": {
+        "x": 3809,
+        "y": 1159,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0149.png": {
+      "frame": {
+        "x": 2278,
+        "y": 691,
+        "w": 362,
+        "h": 125
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 0,
+        "w": 362,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0150.png": {
+      "frame": {
+        "x": 1887,
+        "y": 793,
+        "w": 362,
+        "h": 125
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 0,
+        "w": 362,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0156.png": {
+      "frame": {
+        "x": 1515,
+        "y": 861,
+        "w": 362,
+        "h": 113
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 12,
+        "w": 362,
+        "h": 113
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0157.png": {
+      "frame": {
+        "x": 1515,
+        "y": 974,
+        "w": 362,
+        "h": 113
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 12,
+        "w": 362,
+        "h": 113
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0859.png": {
+      "frame": {
+        "x": 1515,
+        "y": 1087,
+        "w": 359,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 85,
+        "y": 25,
+        "w": 359,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0292.png": {
+      "frame": {
+        "x": 2640,
+        "y": 788,
+        "w": 358,
+        "h": 137
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 50,
+        "y": 34,
+        "w": 358,
+        "h": 137
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0905.png": {
+      "frame": {
+        "x": 2249,
+        "y": 816,
+        "w": 356,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 53,
+        "y": 0,
+        "w": 356,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0291.png": {
+      "frame": {
+        "x": 1877,
+        "y": 918,
+        "w": 353,
+        "h": 137
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 52,
+        "y": 34,
+        "w": 353,
+        "h": 137
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0840.png": {
+      "frame": {
+        "x": 1877,
+        "y": 1055,
+        "w": 352,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 75,
+        "y": 49,
+        "w": 352,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0603.png": {
+      "frame": {
+        "x": 2605,
+        "y": 925,
+        "w": 351,
+        "h": 171
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 49,
+        "y": 0,
+        "w": 351,
+        "h": 171
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0904.png": {
+      "frame": {
+        "x": 2230,
+        "y": 962,
+        "w": 351,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 57,
+        "y": 0,
+        "w": 351,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0166.png": {
+      "frame": {
+        "x": 2230,
+        "y": 1108,
+        "w": 351,
+        "h": 116
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 9,
+        "w": 351,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0167.png": {
+      "frame": {
+        "x": 1874,
+        "y": 1177,
+        "w": 351,
+        "h": 116
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 9,
+        "w": 351,
+        "h": 116
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0602.png": {
+      "frame": {
+        "x": 1874,
+        "y": 1293,
+        "w": 350,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 50,
+        "y": 1,
+        "w": 350,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0158.png": {
+      "frame": {
+        "x": 2581,
+        "y": 1096,
+        "w": 349,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 13,
+        "w": 349,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0159.png": {
+      "frame": {
+        "x": 2581,
+        "y": 1208,
+        "w": 349,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 13,
+        "w": 349,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0160.png": {
+      "frame": {
+        "x": 2225,
+        "y": 1224,
+        "w": 349,
+        "h": 112
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 13,
+        "w": 349,
+        "h": 112
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0163.png": {
+      "frame": {
+        "x": 2225,
+        "y": 1336,
+        "w": 348,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 11,
+        "w": 348,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0164.png": {
+      "frame": {
+        "x": 2930,
+        "y": 1160,
+        "w": 348,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 11,
+        "w": 348,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0165.png": {
+      "frame": {
+        "x": 2930,
+        "y": 1274,
+        "w": 348,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 11,
+        "w": 348,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0600.png": {
+      "frame": {
+        "x": 2574,
+        "y": 1320,
+        "w": 347,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 53,
+        "y": 6,
+        "w": 347,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0161.png": {
+      "frame": {
+        "x": 2224,
+        "y": 1450,
+        "w": 347,
+        "h": 113
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 12,
+        "w": 347,
+        "h": 113
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0162.png": {
+      "frame": {
+        "x": 3278,
+        "y": 1161,
+        "w": 347,
+        "h": 113
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 12,
+        "w": 347,
+        "h": 113
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0171.png": {
+      "frame": {
+        "x": 3625,
+        "y": 1215,
+        "w": 346,
+        "h": 103
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 22,
+        "w": 346,
+        "h": 103
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0903.png": {
+      "frame": {
+        "x": 3278,
+        "y": 1274,
+        "w": 345,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 60,
+        "y": 0,
+        "w": 345,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0921.png": {
+      "frame": {
+        "x": 2921,
+        "y": 1388,
+        "w": 344,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 86,
+        "y": 0,
+        "w": 344,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0289.png": {
+      "frame": {
+        "x": 2921,
+        "y": 1425,
+        "w": 343,
+        "h": 136
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 57,
+        "y": 35,
+        "w": 343,
+        "h": 136
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0922.png": {
+      "frame": {
+        "x": 2571,
+        "y": 1485,
+        "w": 343,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 0,
+        "w": 343,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0839.png": {
+      "frame": {
+        "x": 2571,
+        "y": 1522,
+        "w": 342,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 80,
+        "y": 49,
+        "w": 342,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0173.png": {
+      "frame": {
+        "x": 3623,
+        "y": 1318,
+        "w": 341,
+        "h": 101
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 341,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0174.png": {
+      "frame": {
+        "x": 3623,
+        "y": 1419,
+        "w": 341,
+        "h": 101
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 341,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0175.png": {
+      "frame": {
+        "x": 3265,
+        "y": 1420,
+        "w": 341,
+        "h": 101
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 341,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0920.png": {
+      "frame": {
+        "x": 3265,
+        "y": 1521,
+        "w": 341,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 86,
+        "y": 0,
+        "w": 341,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0288.png": {
+      "frame": {
+        "x": 3606,
+        "y": 1520,
+        "w": 340,
+        "h": 136
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 60,
+        "y": 35,
+        "w": 340,
+        "h": 136
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0203.png": {
+      "frame": {
+        "x": 3264,
+        "y": 1558,
+        "w": 338,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 338,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0204.png": {
+      "frame": {
+        "x": 2913,
+        "y": 1561,
+        "w": 338,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 338,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0205.png": {
+      "frame": {
+        "x": 3251,
+        "y": 1666,
+        "w": 338,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 338,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0248.png": {
+      "frame": {
+        "x": 3602,
+        "y": 1656,
+        "w": 337,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 41,
+        "w": 337,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0249.png": {
+      "frame": {
+        "x": 0,
+        "y": 511,
+        "w": 337,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 41,
+        "w": 337,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0250.png": {
+      "frame": {
+        "x": 337,
+        "y": 511,
+        "w": 337,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 41,
+        "w": 337,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0218.png": {
+      "frame": {
+        "x": 0,
+        "y": 641,
+        "w": 337,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 43,
+        "w": 337,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0219.png": {
+      "frame": {
+        "x": 337,
+        "y": 641,
+        "w": 337,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 43,
+        "w": 337,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0220.png": {
+      "frame": {
+        "x": 0,
+        "y": 769,
+        "w": 337,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 43,
+        "w": 337,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0232.png": {
+      "frame": {
+        "x": 337,
+        "y": 769,
+        "w": 337,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 337,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0899.png": {
+      "frame": {
+        "x": 674,
+        "y": 889,
+        "w": 336,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 72,
+        "y": 0,
+        "w": 336,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0286.png": {
+      "frame": {
+        "x": 337,
+        "y": 893,
+        "w": 335,
+        "h": 136
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 65,
+        "y": 35,
+        "w": 335,
+        "h": 136
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0206.png": {
+      "frame": {
+        "x": 0,
+        "y": 897,
+        "w": 335,
+        "h": 109
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 335,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0207.png": {
+      "frame": {
+        "x": 0,
+        "y": 1006,
+        "w": 335,
+        "h": 109
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 335,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0915.png": {
+      "frame": {
+        "x": 335,
+        "y": 1029,
+        "w": 334,
+        "h": 51
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 93,
+        "y": 0,
+        "w": 334,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0898.png": {
+      "frame": {
+        "x": 335,
+        "y": 1080,
+        "w": 333,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 74,
+        "y": 0,
+        "w": 333,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0182.png": {
+      "frame": {
+        "x": 0,
+        "y": 1115,
+        "w": 333,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 333,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0285.png": {
+      "frame": {
+        "x": 1010,
+        "y": 978,
+        "w": 332,
+        "h": 135
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 68,
+        "y": 36,
+        "w": 332,
+        "h": 135
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0216.png": {
+      "frame": {
+        "x": 669,
+        "y": 1035,
+        "w": 332,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 332,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0217.png": {
+      "frame": {
+        "x": 669,
+        "y": 1159,
+        "w": 332,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 332,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0838.png": {
+      "frame": {
+        "x": 333,
+        "y": 1233,
+        "w": 332,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 84,
+        "y": 49,
+        "w": 332,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0177.png": {
+      "frame": {
+        "x": 0,
+        "y": 1235,
+        "w": 332,
+        "h": 99
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 27,
+        "w": 332,
+        "h": 99
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0897.png": {
+      "frame": {
+        "x": 0,
+        "y": 1334,
+        "w": 331,
+        "h": 147
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 77,
+        "y": 0,
+        "w": 331,
+        "h": 147
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0187.png": {
+      "frame": {
+        "x": 1001,
+        "y": 1113,
+        "w": 331,
+        "h": 114
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 34,
+        "w": 331,
+        "h": 114
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0186.png": {
+      "frame": {
+        "x": 1001,
+        "y": 1227,
+        "w": 331,
+        "h": 113
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 34,
+        "w": 331,
+        "h": 113
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0284.png": {
+      "frame": {
+        "x": 665,
+        "y": 1283,
+        "w": 330,
+        "h": 135
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 70,
+        "y": 36,
+        "w": 330,
+        "h": 135
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0251.png": {
+      "frame": {
+        "x": 331,
+        "y": 1355,
+        "w": 330,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 41,
+        "w": 330,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0252.png": {
+      "frame": {
+        "x": 0,
+        "y": 1481,
+        "w": 330,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 41,
+        "w": 330,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0228.png": {
+      "frame": {
+        "x": 1332,
+        "y": 1233,
+        "w": 330,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 330,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0229.png": {
+      "frame": {
+        "x": 995,
+        "y": 1340,
+        "w": 330,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 330,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0230.png": {
+      "frame": {
+        "x": 661,
+        "y": 1418,
+        "w": 330,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 330,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0184.png": {
+      "frame": {
+        "x": 330,
+        "y": 1485,
+        "w": 330,
+        "h": 118
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 29,
+        "w": 330,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0185.png": {
+      "frame": {
+        "x": 1325,
+        "y": 1357,
+        "w": 330,
+        "h": 118
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 29,
+        "w": 330,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0183.png": {
+      "frame": {
+        "x": 991,
+        "y": 1464,
+        "w": 330,
+        "h": 117
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 29,
+        "w": 330,
+        "h": 117
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0188.png": {
+      "frame": {
+        "x": 660,
+        "y": 1542,
+        "w": 330,
+        "h": 109
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 39,
+        "w": 330,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0896.png": {
+      "frame": {
+        "x": 330,
+        "y": 1603,
+        "w": 329,
+        "h": 147
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 79,
+        "y": 0,
+        "w": 329,
+        "h": 147
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0931.png": {
+      "frame": {
+        "x": 0,
+        "y": 1611,
+        "w": 329,
+        "h": 35
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 101,
+        "y": 0,
+        "w": 329,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0932.png": {
+      "frame": {
+        "x": 0,
+        "y": 1646,
+        "w": 329,
+        "h": 35
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 101,
+        "y": 0,
+        "w": 329,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0178.png": {
+      "frame": {
+        "x": 0,
+        "y": 1681,
+        "w": 328,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 328,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0179.png": {
+      "frame": {
+        "x": 1655,
+        "y": 1463,
+        "w": 328,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 328,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0180.png": {
+      "frame": {
+        "x": 1321,
+        "y": 1475,
+        "w": 328,
+        "h": 100
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 328,
+        "h": 100
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0930.png": {
+      "frame": {
+        "x": 1321,
+        "y": 1575,
+        "w": 328,
+        "h": 35
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 102,
+        "y": 0,
+        "w": 328,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0933.png": {
+      "frame": {
+        "x": 990,
+        "y": 1581,
+        "w": 328,
+        "h": 35
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 102,
+        "y": 0,
+        "w": 328,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0929.png": {
+      "frame": {
+        "x": 990,
+        "y": 1616,
+        "w": 327,
+        "h": 35
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 103,
+        "y": 0,
+        "w": 327,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0837.png": {
+      "frame": {
+        "x": 1649,
+        "y": 1563,
+        "w": 326,
+        "h": 123
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 87,
+        "y": 48,
+        "w": 326,
+        "h": 123
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0282.png": {
+      "frame": {
+        "x": 1318,
+        "y": 1610,
+        "w": 325,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 75,
+        "y": 37,
+        "w": 325,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0241.png": {
+      "frame": {
+        "x": 1975,
+        "y": 1563,
+        "w": 325,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 75,
+        "y": 41,
+        "w": 325,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0242.png": {
+      "frame": {
+        "x": 1643,
+        "y": 1686,
+        "w": 325,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 75,
+        "y": 41,
+        "w": 325,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0072.png": {
+      "frame": {
+        "x": 2300,
+        "y": 1563,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0073.png": {
+      "frame": {
+        "x": 2300,
+        "y": 1619,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0239.png": {
+      "frame": {
+        "x": 2564,
+        "y": 1644,
+        "w": 325,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 75,
+        "y": 43,
+        "w": 325,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0074.png": {
+      "frame": {
+        "x": 2300,
+        "y": 1675,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0240.png": {
+      "frame": {
+        "x": 1968,
+        "y": 1693,
+        "w": 325,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 75,
+        "y": 43,
+        "w": 325,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0075.png": {
+      "frame": {
+        "x": 2293,
+        "y": 1731,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0209.png": {
+      "frame": {
+        "x": 2889,
+        "y": 1669,
+        "w": 325,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 325,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0210.png": {
+      "frame": {
+        "x": 2557,
+        "y": 1786,
+        "w": 325,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 325,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0076.png": {
+      "frame": {
+        "x": 2293,
+        "y": 1787,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0208.png": {
+      "frame": {
+        "x": 3214,
+        "y": 1774,
+        "w": 325,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 325,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0191.png": {
+      "frame": {
+        "x": 2882,
+        "y": 1793,
+        "w": 325,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 42,
+        "w": 325,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0192.png": {
+      "frame": {
+        "x": 2882,
+        "y": 1901,
+        "w": 325,
+        "h": 108
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 42,
+        "w": 325,
+        "h": 108
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0934.png": {
+      "frame": {
+        "x": 2882,
+        "y": 2009,
+        "w": 325,
+        "h": 35
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 104,
+        "y": 0,
+        "w": 325,
+        "h": 35
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0243.png": {
+      "frame": {
+        "x": 3539,
+        "y": 1786,
+        "w": 324,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 76,
+        "y": 37,
+        "w": 324,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0238.png": {
+      "frame": {
+        "x": 3207,
+        "y": 1884,
+        "w": 324,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 76,
+        "y": 43,
+        "w": 324,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0236.png": {
+      "frame": {
+        "x": 3207,
+        "y": 2012,
+        "w": 324,
+        "h": 125
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 76,
+        "y": 46,
+        "w": 324,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0237.png": {
+      "frame": {
+        "x": 3207,
+        "y": 2137,
+        "w": 324,
+        "h": 125
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 76,
+        "y": 46,
+        "w": 324,
+        "h": 125
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0926.png": {
+      "frame": {
+        "x": 3531,
+        "y": 1920,
+        "w": 324,
+        "h": 36
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 107,
+        "y": 0,
+        "w": 324,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0281.png": {
+      "frame": {
+        "x": 3531,
+        "y": 1956,
+        "w": 323,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 77,
+        "y": 37,
+        "w": 323,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0213.png": {
+      "frame": {
+        "x": 3531,
+        "y": 2090,
+        "w": 323,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 323,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0214.png": {
+      "frame": {
+        "x": 3531,
+        "y": 2214,
+        "w": 323,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 323,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0215.png": {
+      "frame": {
+        "x": 659,
+        "y": 1651,
+        "w": 323,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 323,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0777.png": {
+      "frame": {
+        "x": 328,
+        "y": 1750,
+        "w": 322,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0778.png": {
+      "frame": {
+        "x": 0,
+        "y": 1781,
+        "w": 322,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0779.png": {
+      "frame": {
+        "x": 982,
+        "y": 1651,
+        "w": 322,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0780.png": {
+      "frame": {
+        "x": 650,
+        "y": 1775,
+        "w": 322,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0781.png": {
+      "frame": {
+        "x": 322,
+        "y": 1896,
+        "w": 322,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0782.png": {
+      "frame": {
+        "x": 0,
+        "y": 1927,
+        "w": 322,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0783.png": {
+      "frame": {
+        "x": 1304,
+        "y": 1744,
+        "w": 322,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0784.png": {
+      "frame": {
+        "x": 972,
+        "y": 1816,
+        "w": 322,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0785.png": {
+      "frame": {
+        "x": 644,
+        "y": 1921,
+        "w": 322,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0786.png": {
+      "frame": {
+        "x": 322,
+        "y": 2042,
+        "w": 322,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0787.png": {
+      "frame": {
+        "x": 0,
+        "y": 2073,
+        "w": 322,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0788.png": {
+      "frame": {
+        "x": 1626,
+        "y": 1816,
+        "w": 322,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0789.png": {
+      "frame": {
+        "x": 1294,
+        "y": 1890,
+        "w": 322,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0790.png": {
+      "frame": {
+        "x": 966,
+        "y": 1962,
+        "w": 322,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0791.png": {
+      "frame": {
+        "x": 644,
+        "y": 2067,
+        "w": 322,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0792.png": {
+      "frame": {
+        "x": 322,
+        "y": 2188,
+        "w": 322,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0793.png": {
+      "frame": {
+        "x": 0,
+        "y": 2219,
+        "w": 322,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0794.png": {
+      "frame": {
+        "x": 1948,
+        "y": 1821,
+        "w": 322,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0795.png": {
+      "frame": {
+        "x": 1616,
+        "y": 1962,
+        "w": 322,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0796.png": {
+      "frame": {
+        "x": 1288,
+        "y": 2036,
+        "w": 322,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0797.png": {
+      "frame": {
+        "x": 966,
+        "y": 2108,
+        "w": 322,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0798.png": {
+      "frame": {
+        "x": 644,
+        "y": 2213,
+        "w": 322,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0799.png": {
+      "frame": {
+        "x": 322,
+        "y": 2334,
+        "w": 322,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0800.png": {
+      "frame": {
+        "x": 0,
+        "y": 2365,
+        "w": 322,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0077.png": {
+      "frame": {
+        "x": 2270,
+        "y": 1843,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0078.png": {
+      "frame": {
+        "x": 2270,
+        "y": 1899,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0801.png": {
+      "frame": {
+        "x": 2534,
+        "y": 1910,
+        "w": 322,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0079.png": {
+      "frame": {
+        "x": 2270,
+        "y": 1955,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0802.png": {
+      "frame": {
+        "x": 1938,
+        "y": 1967,
+        "w": 322,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0803.png": {
+      "frame": {
+        "x": 1610,
+        "y": 2108,
+        "w": 322,
+        "h": 146
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 146
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0764.png": {
+      "frame": {
+        "x": 1288,
+        "y": 2182,
+        "w": 322,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0765.png": {
+      "frame": {
+        "x": 966,
+        "y": 2254,
+        "w": 322,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0766.png": {
+      "frame": {
+        "x": 644,
+        "y": 2359,
+        "w": 322,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0767.png": {
+      "frame": {
+        "x": 322,
+        "y": 2480,
+        "w": 322,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0768.png": {
+      "frame": {
+        "x": 0,
+        "y": 2511,
+        "w": 322,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0080.png": {
+      "frame": {
+        "x": 2260,
+        "y": 2011,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0769.png": {
+      "frame": {
+        "x": 2856,
+        "y": 2044,
+        "w": 322,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0770.png": {
+      "frame": {
+        "x": 2524,
+        "y": 2056,
+        "w": 322,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0081.png": {
+      "frame": {
+        "x": 2260,
+        "y": 2067,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0771.png": {
+      "frame": {
+        "x": 1932,
+        "y": 2113,
+        "w": 322,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0772.png": {
+      "frame": {
+        "x": 1610,
+        "y": 2254,
+        "w": 322,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0773.png": {
+      "frame": {
+        "x": 1288,
+        "y": 2327,
+        "w": 322,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0774.png": {
+      "frame": {
+        "x": 966,
+        "y": 2399,
+        "w": 322,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0775.png": {
+      "frame": {
+        "x": 644,
+        "y": 2504,
+        "w": 322,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0776.png": {
+      "frame": {
+        "x": 322,
+        "y": 2625,
+        "w": 322,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0804.png": {
+      "frame": {
+        "x": 0,
+        "y": 2656,
+        "w": 322,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0082.png": {
+      "frame": {
+        "x": 2254,
+        "y": 2123,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0083.png": {
+      "frame": {
+        "x": 2254,
+        "y": 2179,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0805.png": {
+      "frame": {
+        "x": 2846,
+        "y": 2189,
+        "w": 322,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0806.png": {
+      "frame": {
+        "x": 2518,
+        "y": 2201,
+        "w": 322,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0084.png": {
+      "frame": {
+        "x": 2254,
+        "y": 2235,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0807.png": {
+      "frame": {
+        "x": 1932,
+        "y": 2258,
+        "w": 322,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0808.png": {
+      "frame": {
+        "x": 1610,
+        "y": 2399,
+        "w": 322,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0809.png": {
+      "frame": {
+        "x": 1288,
+        "y": 2472,
+        "w": 322,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0810.png": {
+      "frame": {
+        "x": 966,
+        "y": 2544,
+        "w": 322,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0811.png": {
+      "frame": {
+        "x": 644,
+        "y": 2649,
+        "w": 322,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0812.png": {
+      "frame": {
+        "x": 322,
+        "y": 2770,
+        "w": 322,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0813.png": {
+      "frame": {
+        "x": 0,
+        "y": 2801,
+        "w": 322,
+        "h": 145
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 145
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0085.png": {
+      "frame": {
+        "x": 2254,
+        "y": 2291,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0815.png": {
+      "frame": {
+        "x": 3168,
+        "y": 2262,
+        "w": 322,
+        "h": 144
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 27,
+        "w": 322,
+        "h": 144
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0816.png": {
+      "frame": {
+        "x": 2840,
+        "y": 2338,
+        "w": 322,
+        "h": 144
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 27,
+        "w": 322,
+        "h": 144
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0817.png": {
+      "frame": {
+        "x": 2518,
+        "y": 2346,
+        "w": 322,
+        "h": 143
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 28,
+        "w": 322,
+        "h": 143
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0086.png": {
+      "frame": {
+        "x": 2254,
+        "y": 2347,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0818.png": {
+      "frame": {
+        "x": 1932,
+        "y": 2403,
+        "w": 322,
+        "h": 143
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 28,
+        "w": 322,
+        "h": 143
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0261.png": {
+      "frame": {
+        "x": 1610,
+        "y": 2544,
+        "w": 322,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 33,
+        "w": 322,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0262.png": {
+      "frame": {
+        "x": 1288,
+        "y": 2617,
+        "w": 322,
+        "h": 138
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 33,
+        "w": 322,
+        "h": 138
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0221.png": {
+      "frame": {
+        "x": 966,
+        "y": 2689,
+        "w": 322,
+        "h": 137
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 34,
+        "w": 322,
+        "h": 137
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0222.png": {
+      "frame": {
+        "x": 644,
+        "y": 2794,
+        "w": 322,
+        "h": 137
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 34,
+        "w": 322,
+        "h": 137
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0258.png": {
+      "frame": {
+        "x": 322,
+        "y": 2915,
+        "w": 322,
+        "h": 137
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 34,
+        "w": 322,
+        "h": 137
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0259.png": {
+      "frame": {
+        "x": 0,
+        "y": 2946,
+        "w": 322,
+        "h": 137
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 34,
+        "w": 322,
+        "h": 137
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0087.png": {
+      "frame": {
+        "x": 2254,
+        "y": 2403,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0088.png": {
+      "frame": {
+        "x": 2254,
+        "y": 2459,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0260.png": {
+      "frame": {
+        "x": 3490,
+        "y": 2338,
+        "w": 322,
+        "h": 137
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 34,
+        "w": 322,
+        "h": 137
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0263.png": {
+      "frame": {
+        "x": 3162,
+        "y": 2406,
+        "w": 322,
+        "h": 137
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 34,
+        "w": 322,
+        "h": 137
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0264.png": {
+      "frame": {
+        "x": 2840,
+        "y": 2482,
+        "w": 322,
+        "h": 137
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 34,
+        "w": 322,
+        "h": 137
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0265.png": {
+      "frame": {
+        "x": 2518,
+        "y": 2489,
+        "w": 322,
+        "h": 137
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 34,
+        "w": 322,
+        "h": 137
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0089.png": {
+      "frame": {
+        "x": 2254,
+        "y": 2515,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0256.png": {
+      "frame": {
+        "x": 1932,
+        "y": 2546,
+        "w": 322,
+        "h": 135
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 36,
+        "w": 322,
+        "h": 135
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0090.png": {
+      "frame": {
+        "x": 2254,
+        "y": 2571,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0091.png": {
+      "frame": {
+        "x": 3812,
+        "y": 2338,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0092.png": {
+      "frame": {
+        "x": 3812,
+        "y": 2394,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0093.png": {
+      "frame": {
+        "x": 3812,
+        "y": 2450,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0257.png": {
+      "frame": {
+        "x": 3484,
+        "y": 2475,
+        "w": 322,
+        "h": 135
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 36,
+        "w": 322,
+        "h": 135
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0266.png": {
+      "frame": {
+        "x": 3162,
+        "y": 2543,
+        "w": 322,
+        "h": 135
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 36,
+        "w": 322,
+        "h": 135
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0267.png": {
+      "frame": {
+        "x": 2840,
+        "y": 2619,
+        "w": 322,
+        "h": 135
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 36,
+        "w": 322,
+        "h": 135
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0245.png": {
+      "frame": {
+        "x": 2518,
+        "y": 2626,
+        "w": 322,
+        "h": 134
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 37,
+        "w": 322,
+        "h": 134
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0094.png": {
+      "frame": {
+        "x": 2254,
+        "y": 2627,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0253.png": {
+      "frame": {
+        "x": 1932,
+        "y": 2681,
+        "w": 322,
+        "h": 132
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 39,
+        "w": 322,
+        "h": 132
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0254.png": {
+      "frame": {
+        "x": 1610,
+        "y": 2683,
+        "w": 322,
+        "h": 132
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 39,
+        "w": 322,
+        "h": 132
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0255.png": {
+      "frame": {
+        "x": 1288,
+        "y": 2755,
+        "w": 322,
+        "h": 132
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 39,
+        "w": 322,
+        "h": 132
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0279.png": {
+      "frame": {
+        "x": 966,
+        "y": 2826,
+        "w": 322,
+        "h": 132
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 39,
+        "w": 322,
+        "h": 132
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0280.png": {
+      "frame": {
+        "x": 644,
+        "y": 2931,
+        "w": 322,
+        "h": 132
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 39,
+        "w": 322,
+        "h": 132
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0246.png": {
+      "frame": {
+        "x": 322,
+        "y": 3052,
+        "w": 322,
+        "h": 131
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 40,
+        "w": 322,
+        "h": 131
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0247.png": {
+      "frame": {
+        "x": 0,
+        "y": 3083,
+        "w": 322,
+        "h": 131
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 40,
+        "w": 322,
+        "h": 131
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0095.png": {
+      "frame": {
+        "x": 2254,
+        "y": 2683,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0096.png": {
+      "frame": {
+        "x": 2254,
+        "y": 2739,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0097.png": {
+      "frame": {
+        "x": 3806,
+        "y": 2506,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0098.png": {
+      "frame": {
+        "x": 3806,
+        "y": 2562,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0276.png": {
+      "frame": {
+        "x": 3484,
+        "y": 2610,
+        "w": 322,
+        "h": 131
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 40,
+        "w": 322,
+        "h": 131
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0277.png": {
+      "frame": {
+        "x": 3162,
+        "y": 2678,
+        "w": 322,
+        "h": 131
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 40,
+        "w": 322,
+        "h": 131
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0278.png": {
+      "frame": {
+        "x": 2840,
+        "y": 2754,
+        "w": 322,
+        "h": 131
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 40,
+        "w": 322,
+        "h": 131
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0268.png": {
+      "frame": {
+        "x": 2518,
+        "y": 2760,
+        "w": 322,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 41,
+        "w": 322,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0099.png": {
+      "frame": {
+        "x": 2254,
+        "y": 2795,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0269.png": {
+      "frame": {
+        "x": 1932,
+        "y": 2813,
+        "w": 322,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 41,
+        "w": 322,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0270.png": {
+      "frame": {
+        "x": 1610,
+        "y": 2815,
+        "w": 322,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 41,
+        "w": 322,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0274.png": {
+      "frame": {
+        "x": 1288,
+        "y": 2887,
+        "w": 322,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 41,
+        "w": 322,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0275.png": {
+      "frame": {
+        "x": 966,
+        "y": 2958,
+        "w": 322,
+        "h": 130
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 41,
+        "w": 322,
+        "h": 130
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0271.png": {
+      "frame": {
+        "x": 644,
+        "y": 3063,
+        "w": 322,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 42,
+        "w": 322,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0272.png": {
+      "frame": {
+        "x": 322,
+        "y": 3183,
+        "w": 322,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 42,
+        "w": 322,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0273.png": {
+      "frame": {
+        "x": 0,
+        "y": 3214,
+        "w": 322,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 42,
+        "w": 322,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0100.png": {
+      "frame": {
+        "x": 2254,
+        "y": 2851,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0101.png": {
+      "frame": {
+        "x": 3806,
+        "y": 2618,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0102.png": {
+      "frame": {
+        "x": 3806,
+        "y": 2674,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0103.png": {
+      "frame": {
+        "x": 3806,
+        "y": 2730,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0226.png": {
+      "frame": {
+        "x": 3484,
+        "y": 2741,
+        "w": 322,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 43,
+        "w": 322,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0227.png": {
+      "frame": {
+        "x": 3162,
+        "y": 2809,
+        "w": 322,
+        "h": 128
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 43,
+        "w": 322,
+        "h": 128
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0223.png": {
+      "frame": {
+        "x": 2840,
+        "y": 2885,
+        "w": 322,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 45,
+        "w": 322,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0224.png": {
+      "frame": {
+        "x": 2518,
+        "y": 2890,
+        "w": 322,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 45,
+        "w": 322,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0104.png": {
+      "frame": {
+        "x": 2254,
+        "y": 2907,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0225.png": {
+      "frame": {
+        "x": 1932,
+        "y": 2943,
+        "w": 322,
+        "h": 126
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 45,
+        "w": 322,
+        "h": 126
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0211.png": {
+      "frame": {
+        "x": 1610,
+        "y": 3016,
+        "w": 322,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 322,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0924.png": {
+      "frame": {
+        "x": 1610,
+        "y": 2945,
+        "w": 322,
+        "h": 36
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 110,
+        "y": 0,
+        "w": 322,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0212.png": {
+      "frame": {
+        "x": 1288,
+        "y": 3017,
+        "w": 322,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 322,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0712.png": {
+      "frame": {
+        "x": 966,
+        "y": 3088,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0713.png": {
+      "frame": {
+        "x": 644,
+        "y": 3192,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0714.png": {
+      "frame": {
+        "x": 322,
+        "y": 3312,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0715.png": {
+      "frame": {
+        "x": 0,
+        "y": 3343,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0105.png": {
+      "frame": {
+        "x": 2254,
+        "y": 2963,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0106.png": {
+      "frame": {
+        "x": 3806,
+        "y": 2786,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0107.png": {
+      "frame": {
+        "x": 3806,
+        "y": 2842,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0716.png": {
+      "frame": {
+        "x": 3484,
+        "y": 2869,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0717.png": {
+      "frame": {
+        "x": 3162,
+        "y": 2937,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0718.png": {
+      "frame": {
+        "x": 2840,
+        "y": 3011,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0719.png": {
+      "frame": {
+        "x": 2518,
+        "y": 3016,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0108.png": {
+      "frame": {
+        "x": 2254,
+        "y": 3019,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0720.png": {
+      "frame": {
+        "x": 1932,
+        "y": 3069,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0721.png": {
+      "frame": {
+        "x": 1610,
+        "y": 3140,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0722.png": {
+      "frame": {
+        "x": 1288,
+        "y": 3141,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0723.png": {
+      "frame": {
+        "x": 966,
+        "y": 3210,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0724.png": {
+      "frame": {
+        "x": 644,
+        "y": 3314,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0725.png": {
+      "frame": {
+        "x": 322,
+        "y": 3434,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0726.png": {
+      "frame": {
+        "x": 0,
+        "y": 3465,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0109.png": {
+      "frame": {
+        "x": 2254,
+        "y": 3075,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0110.png": {
+      "frame": {
+        "x": 2254,
+        "y": 3131,
+        "w": 264,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0017.png": {
+      "frame": {
+        "x": 3806,
+        "y": 2898,
+        "w": 264,
+        "h": 55
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 55
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0016.png": {
+      "frame": {
+        "x": 3806,
+        "y": 2953,
+        "w": 264,
+        "h": 54
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 54
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0727.png": {
+      "frame": {
+        "x": 3484,
+        "y": 2991,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0728.png": {
+      "frame": {
+        "x": 3162,
+        "y": 3059,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0729.png": {
+      "frame": {
+        "x": 2840,
+        "y": 3133,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0730.png": {
+      "frame": {
+        "x": 2518,
+        "y": 3138,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0015.png": {
+      "frame": {
+        "x": 2254,
+        "y": 3187,
+        "w": 264,
+        "h": 51
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 47,
+        "w": 264,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0731.png": {
+      "frame": {
+        "x": 1932,
+        "y": 3191,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0732.png": {
+      "frame": {
+        "x": 1610,
+        "y": 3262,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0733.png": {
+      "frame": {
+        "x": 1288,
+        "y": 3263,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0734.png": {
+      "frame": {
+        "x": 966,
+        "y": 3332,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0735.png": {
+      "frame": {
+        "x": 644,
+        "y": 3436,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0736.png": {
+      "frame": {
+        "x": 322,
+        "y": 3556,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0737.png": {
+      "frame": {
+        "x": 0,
+        "y": 3587,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0009.png": {
+      "frame": {
+        "x": 2254,
+        "y": 3238,
+        "w": 264,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 53,
+        "w": 264,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0010.png": {
+      "frame": {
+        "x": 3806,
+        "y": 3007,
+        "w": 264,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 53,
+        "w": 264,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0895.png": {
+      "frame": {
+        "x": 0,
+        "y": 3709,
+        "w": 318,
+        "h": 147
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 81,
+        "y": 0,
+        "w": 318,
+        "h": 147
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0894.png": {
+      "frame": {
+        "x": 0,
+        "y": 3856,
+        "w": 316,
+        "h": 147
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 83,
+        "y": 0,
+        "w": 316,
+        "h": 147
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0923.png": {
+      "frame": {
+        "x": 0,
+        "y": 4003,
+        "w": 318,
+        "h": 37
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 112,
+        "y": 0,
+        "w": 318,
+        "h": 37
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0893.png": {
+      "frame": {
+        "x": 316,
+        "y": 3856,
+        "w": 313,
+        "h": 147
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 85,
+        "y": 0,
+        "w": 313,
+        "h": 147
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0892.png": {
+      "frame": {
+        "x": 318,
+        "y": 3709,
+        "w": 312,
+        "h": 147
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 86,
+        "y": 0,
+        "w": 312,
+        "h": 147
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0925.png": {
+      "frame": {
+        "x": 0,
+        "y": 4040,
+        "w": 322,
+        "h": 36
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 109,
+        "y": 0,
+        "w": 322,
+        "h": 36
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0891.png": {
+      "frame": {
+        "x": 629,
+        "y": 3856,
+        "w": 310,
+        "h": 147
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 88,
+        "y": 0,
+        "w": 310,
+        "h": 147
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0890.png": {
+      "frame": {
+        "x": 630,
+        "y": 3678,
+        "w": 304,
+        "h": 147
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 90,
+        "y": 0,
+        "w": 304,
+        "h": 147
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0704.png": {
+      "frame": {
+        "x": 644,
+        "y": 3558,
+        "w": 322,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 27,
+        "w": 322,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0705.png": {
+      "frame": {
+        "x": 966,
+        "y": 3558,
+        "w": 322,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 27,
+        "w": 322,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0706.png": {
+      "frame": {
+        "x": 1288,
+        "y": 3558,
+        "w": 322,
+        "h": 120
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 27,
+        "w": 322,
+        "h": 120
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0702.png": {
+      "frame": {
+        "x": 1610,
+        "y": 3558,
+        "w": 322,
+        "h": 119
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 28,
+        "w": 322,
+        "h": 119
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0889.png": {
+      "frame": {
+        "x": 1288,
+        "y": 3385,
+        "w": 303,
+        "h": 147
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 91,
+        "y": 0,
+        "w": 303,
+        "h": 147
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0824.png": {
+      "frame": {
+        "x": 1591,
+        "y": 3385,
+        "w": 302,
+        "h": 139
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 98,
+        "y": 32,
+        "w": 302,
+        "h": 139
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0825.png": {
+      "frame": {
+        "x": 1893,
+        "y": 3385,
+        "w": 302,
+        "h": 139
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 98,
+        "y": 32,
+        "w": 302,
+        "h": 139
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0826.png": {
+      "frame": {
+        "x": 2195,
+        "y": 3385,
+        "w": 302,
+        "h": 137
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 98,
+        "y": 34,
+        "w": 302,
+        "h": 137
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0197.png": {
+      "frame": {
+        "x": 2254,
+        "y": 3275,
+        "w": 322,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 42,
+        "w": 322,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0199.png": {
+      "frame": {
+        "x": 2576,
+        "y": 3275,
+        "w": 322,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 43,
+        "w": 322,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0200.png": {
+      "frame": {
+        "x": 2898,
+        "y": 3275,
+        "w": 322,
+        "h": 110
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 43,
+        "w": 322,
+        "h": 110
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0198.png": {
+      "frame": {
+        "x": 3220,
+        "y": 3275,
+        "w": 322,
+        "h": 109
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 43,
+        "w": 322,
+        "h": 109
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0827.png": {
+      "frame": {
+        "x": 3484,
+        "y": 3113,
+        "w": 302,
+        "h": 137
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 98,
+        "y": 34,
+        "w": 302,
+        "h": 137
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0833.png": {
+      "frame": {
+        "x": 3786,
+        "y": 3113,
+        "w": 309,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 98,
+        "y": 42,
+        "w": 309,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0832.png": {
+      "frame": {
+        "x": 3786,
+        "y": 3242,
+        "w": 307,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 98,
+        "y": 42,
+        "w": 307,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0831.png": {
+      "frame": {
+        "x": 3786,
+        "y": 3371,
+        "w": 305,
+        "h": 129
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 98,
+        "y": 42,
+        "w": 305,
+        "h": 129
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0828.png": {
+      "frame": {
+        "x": 934,
+        "y": 3678,
+        "w": 302,
+        "h": 137
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 98,
+        "y": 34,
+        "w": 302,
+        "h": 137
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0830.png": {
+      "frame": {
+        "x": 939,
+        "y": 3815,
+        "w": 303,
+        "h": 133
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 98,
+        "y": 38,
+        "w": 303,
+        "h": 133
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0829.png": {
+      "frame": {
+        "x": 1236,
+        "y": 3678,
+        "w": 302,
+        "h": 133
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 98,
+        "y": 38,
+        "w": 302,
+        "h": 133
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0834.png": {
+      "frame": {
+        "x": 939,
+        "y": 3948,
+        "w": 312,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 97,
+        "y": 47,
+        "w": 312,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0836.png": {
+      "frame": {
+        "x": 1242,
+        "y": 3811,
+        "w": 321,
+        "h": 123
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 91,
+        "y": 48,
+        "w": 321,
+        "h": 123
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0738.png": {
+      "frame": {
+        "x": 1538,
+        "y": 3678,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0739.png": {
+      "frame": {
+        "x": 1251,
+        "y": 3934,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0740.png": {
+      "frame": {
+        "x": 1563,
+        "y": 3800,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0741.png": {
+      "frame": {
+        "x": 1860,
+        "y": 3677,
+        "w": 322,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 25,
+        "w": 322,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0707.png": {
+      "frame": {
+        "x": 1932,
+        "y": 3524,
+        "w": 322,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0708.png": {
+      "frame": {
+        "x": 1573,
+        "y": 3922,
+        "w": 322,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0709.png": {
+      "frame": {
+        "x": 1885,
+        "y": 3799,
+        "w": 322,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0710.png": {
+      "frame": {
+        "x": 2182,
+        "y": 3645,
+        "w": 322,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0711.png": {
+      "frame": {
+        "x": 2254,
+        "y": 3522,
+        "w": 322,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0742.png": {
+      "frame": {
+        "x": 2497,
+        "y": 3385,
+        "w": 322,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0743.png": {
+      "frame": {
+        "x": 2576,
+        "y": 3506,
+        "w": 322,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0744.png": {
+      "frame": {
+        "x": 2819,
+        "y": 3385,
+        "w": 322,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0745.png": {
+      "frame": {
+        "x": 2898,
+        "y": 3506,
+        "w": 322,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0746.png": {
+      "frame": {
+        "x": 3141,
+        "y": 3385,
+        "w": 322,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0747.png": {
+      "frame": {
+        "x": 3463,
+        "y": 3384,
+        "w": 322,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0748.png": {
+      "frame": {
+        "x": 3463,
+        "y": 3505,
+        "w": 322,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0749.png": {
+      "frame": {
+        "x": 1895,
+        "y": 3920,
+        "w": 322,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0750.png": {
+      "frame": {
+        "x": 2207,
+        "y": 3766,
+        "w": 322,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0751.png": {
+      "frame": {
+        "x": 2504,
+        "y": 3643,
+        "w": 322,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0752.png": {
+      "frame": {
+        "x": 2217,
+        "y": 3887,
+        "w": 322,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0753.png": {
+      "frame": {
+        "x": 2529,
+        "y": 3764,
+        "w": 322,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0754.png": {
+      "frame": {
+        "x": 2826,
+        "y": 3627,
+        "w": 322,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0755.png": {
+      "frame": {
+        "x": 2539,
+        "y": 3885,
+        "w": 322,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0756.png": {
+      "frame": {
+        "x": 2851,
+        "y": 3748,
+        "w": 322,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0757.png": {
+      "frame": {
+        "x": 3148,
+        "y": 3627,
+        "w": 322,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0758.png": {
+      "frame": {
+        "x": 2861,
+        "y": 3869,
+        "w": 322,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0759.png": {
+      "frame": {
+        "x": 3173,
+        "y": 3748,
+        "w": 322,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0760.png": {
+      "frame": {
+        "x": 3470,
+        "y": 3626,
+        "w": 322,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0761.png": {
+      "frame": {
+        "x": 3183,
+        "y": 3869,
+        "w": 322,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0762.png": {
+      "frame": {
+        "x": 3495,
+        "y": 3747,
+        "w": 322,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0763.png": {
+      "frame": {
+        "x": 3505,
+        "y": 3868,
+        "w": 322,
+        "h": 121
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 26,
+        "w": 322,
+        "h": 121
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicValentines0193.png": {
+      "frame": {
+        "x": 3505,
+        "y": 3989,
+        "w": 322,
+        "h": 107
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 78,
+        "y": 43,
+        "w": 322,
+        "h": 107
+      },
+      "sourceSize": {
+        "w": 480,
+        "h": 171
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "TheSongeryOriginalMusicValentines-2.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 4095,
+      "h": 4096
+    },
+    "scale": 1
+  }
+}
