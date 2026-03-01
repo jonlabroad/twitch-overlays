@@ -1,0 +1,5127 @@
+{
+  "frames": {
+    "export/TheSongeryOriginalMusicStPaddys0126.png": {
+      "frame": {
+        "x": 1,
+        "y": 1,
+        "w": 1122,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 0,
+        "w": 1122,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0127.png": {
+      "frame": {
+        "x": 1125,
+        "y": 1,
+        "w": 1122,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 0,
+        "w": 1122,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0128.png": {
+      "frame": {
+        "x": 2249,
+        "y": 1,
+        "w": 1122,
+        "h": 359
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 3,
+        "w": 1122,
+        "h": 359
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0129.png": {
+      "frame": {
+        "x": 3373,
+        "y": 1,
+        "w": 1122,
+        "h": 359
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 3,
+        "w": 1122,
+        "h": 359
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0130.png": {
+      "frame": {
+        "x": 4497,
+        "y": 1,
+        "w": 1122,
+        "h": 359
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 3,
+        "w": 1122,
+        "h": 359
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0116.png": {
+      "frame": {
+        "x": 5621,
+        "y": 1,
+        "w": 1122,
+        "h": 351
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 11,
+        "w": 1122,
+        "h": 351
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0117.png": {
+      "frame": {
+        "x": 6745,
+        "y": 1,
+        "w": 1122,
+        "h": 351
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 11,
+        "w": 1122,
+        "h": 351
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0000.png": {
+      "frame": {
+        "x": 7869,
+        "y": 1,
+        "w": 308,
+        "h": 122
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 695,
+        "y": 240,
+        "w": 308,
+        "h": 122
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0946.png": {
+      "frame": {
+        "x": 8179,
+        "y": 1,
+        "w": 10,
+        "h": 8
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1241,
+        "y": 104,
+        "w": 10,
+        "h": 8
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0944.png": {
+      "frame": {
+        "x": 8191,
+        "y": 1,
+        "w": 3,
+        "h": 4
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1249,
+        "y": 101,
+        "w": 3,
+        "h": 4
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0945.png": {
+      "frame": {
+        "x": 8191,
+        "y": 7,
+        "w": 2,
+        "h": 3
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1249,
+        "y": 103,
+        "w": 2,
+        "h": 3
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0947.png": {
+      "frame": {
+        "x": 8179,
+        "y": 11,
+        "w": 1,
+        "h": 1
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1249,
+        "y": 106,
+        "w": 1,
+        "h": 1
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0909.png": {
+      "frame": {
+        "x": 7869,
+        "y": 125,
+        "w": 304,
+        "h": 155
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 942,
+        "y": 80,
+        "w": 304,
+        "h": 155
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0907.png": {
+      "frame": {
+        "x": 7869,
+        "y": 282,
+        "w": 299,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 922,
+        "y": 72,
+        "w": 299,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0943.png": {
+      "frame": {
+        "x": 8170,
+        "y": 282,
+        "w": 24,
+        "h": 17
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1229,
+        "y": 100,
+        "w": 24,
+        "h": 17
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0131.png": {
+      "frame": {
+        "x": 5621,
+        "y": 354,
+        "w": 1121,
+        "h": 364
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 0,
+        "w": 1121,
+        "h": 364
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0132.png": {
+      "frame": {
+        "x": 6744,
+        "y": 354,
+        "w": 1121,
+        "h": 364
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 0,
+        "w": 1121,
+        "h": 364
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0910.png": {
+      "frame": {
+        "x": 7867,
+        "y": 454,
+        "w": 296,
+        "h": 151
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 952,
+        "y": 81,
+        "w": 296,
+        "h": 151
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0942.png": {
+      "frame": {
+        "x": 8165,
+        "y": 454,
+        "w": 28,
+        "h": 21
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1225,
+        "y": 98,
+        "w": 28,
+        "h": 21
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0911.png": {
+      "frame": {
+        "x": 7867,
+        "y": 607,
+        "w": 295,
+        "h": 139
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 962,
+        "y": 90,
+        "w": 295,
+        "h": 139
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0138.png": {
+      "frame": {
+        "x": 2249,
+        "y": 362,
+        "w": 1121,
+        "h": 364
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 0,
+        "w": 1121,
+        "h": 364
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0139.png": {
+      "frame": {
+        "x": 1,
+        "y": 720,
+        "w": 1121,
+        "h": 364
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 0,
+        "w": 1121,
+        "h": 364
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0184.png": {
+      "frame": {
+        "x": 1,
+        "y": 365,
+        "w": 966,
+        "h": 353
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 78,
+        "w": 966,
+        "h": 353
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0285.png": {
+      "frame": {
+        "x": 969,
+        "y": 365,
+        "w": 940,
+        "h": 353
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 75,
+        "w": 940,
+        "h": 353
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0140.png": {
+      "frame": {
+        "x": 1124,
+        "y": 720,
+        "w": 1121,
+        "h": 364
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 0,
+        "w": 1121,
+        "h": 364
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0908.png": {
+      "frame": {
+        "x": 1911,
+        "y": 365,
+        "w": 292,
+        "h": 165
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 932,
+        "y": 73,
+        "w": 292,
+        "h": 165
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0920.png": {
+      "frame": {
+        "x": 1911,
+        "y": 532,
+        "w": 220,
+        "h": 183
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1032,
+        "y": 17,
+        "w": 220,
+        "h": 183
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0935.png": {
+      "frame": {
+        "x": 2133,
+        "y": 532,
+        "w": 110,
+        "h": 84
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1148,
+        "y": 67,
+        "w": 110,
+        "h": 84
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0941.png": {
+      "frame": {
+        "x": 2205,
+        "y": 365,
+        "w": 33,
+        "h": 23
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1221,
+        "y": 97,
+        "w": 33,
+        "h": 23
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0936.png": {
+      "frame": {
+        "x": 2133,
+        "y": 618,
+        "w": 102,
+        "h": 60
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1156,
+        "y": 69,
+        "w": 102,
+        "h": 60
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0133.png": {
+      "frame": {
+        "x": 3372,
+        "y": 362,
+        "w": 1120,
+        "h": 364
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 0,
+        "w": 1120,
+        "h": 364
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0134.png": {
+      "frame": {
+        "x": 4494,
+        "y": 362,
+        "w": 1120,
+        "h": 364
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 0,
+        "w": 1120,
+        "h": 364
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0135.png": {
+      "frame": {
+        "x": 5616,
+        "y": 720,
+        "w": 1120,
+        "h": 364
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 0,
+        "w": 1120,
+        "h": 364
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0118.png": {
+      "frame": {
+        "x": 6738,
+        "y": 720,
+        "w": 1120,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 0,
+        "w": 1120,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0912.png": {
+      "frame": {
+        "x": 7860,
+        "y": 748,
+        "w": 287,
+        "h": 135
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 970,
+        "y": 91,
+        "w": 287,
+        "h": 135
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0913.png": {
+      "frame": {
+        "x": 7860,
+        "y": 885,
+        "w": 279,
+        "h": 222
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 978,
+        "y": 0,
+        "w": 279,
+        "h": 222
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0119.png": {
+      "frame": {
+        "x": 6738,
+        "y": 1084,
+        "w": 1120,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 0,
+        "w": 1120,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0914.png": {
+      "frame": {
+        "x": 7860,
+        "y": 1109,
+        "w": 268,
+        "h": 219
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 985,
+        "y": 0,
+        "w": 268,
+        "h": 219
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0915.png": {
+      "frame": {
+        "x": 7860,
+        "y": 1330,
+        "w": 260,
+        "h": 215
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 993,
+        "y": 1,
+        "w": 260,
+        "h": 215
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0940.png": {
+      "frame": {
+        "x": 8122,
+        "y": 1330,
+        "w": 68,
+        "h": 40
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1187,
+        "y": 82,
+        "w": 68,
+        "h": 40
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0120.png": {
+      "frame": {
+        "x": 2247,
+        "y": 728,
+        "w": 1120,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 0,
+        "w": 1120,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0121.png": {
+      "frame": {
+        "x": 1,
+        "y": 1086,
+        "w": 1120,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 0,
+        "w": 1120,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0122.png": {
+      "frame": {
+        "x": 1123,
+        "y": 1086,
+        "w": 1120,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 0,
+        "w": 1120,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0123.png": {
+      "frame": {
+        "x": 3369,
+        "y": 728,
+        "w": 1120,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 0,
+        "w": 1120,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0124.png": {
+      "frame": {
+        "x": 4491,
+        "y": 728,
+        "w": 1120,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 0,
+        "w": 1120,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0125.png": {
+      "frame": {
+        "x": 5613,
+        "y": 1086,
+        "w": 1120,
+        "h": 362
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 0,
+        "w": 1120,
+        "h": 362
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0113.png": {
+      "frame": {
+        "x": 5613,
+        "y": 1450,
+        "w": 1120,
+        "h": 343
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 19,
+        "w": 1120,
+        "h": 343
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0114.png": {
+      "frame": {
+        "x": 6735,
+        "y": 1448,
+        "w": 1120,
+        "h": 343
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 19,
+        "w": 1120,
+        "h": 343
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0115.png": {
+      "frame": {
+        "x": 6735,
+        "y": 1793,
+        "w": 1120,
+        "h": 343
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 19,
+        "w": 1120,
+        "h": 343
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0916.png": {
+      "frame": {
+        "x": 7857,
+        "y": 1547,
+        "w": 248,
+        "h": 209
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1001,
+        "y": 4,
+        "w": 248,
+        "h": 209
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0938.png": {
+      "frame": {
+        "x": 8107,
+        "y": 1547,
+        "w": 85,
+        "h": 51
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1171,
+        "y": 75,
+        "w": 85,
+        "h": 51
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0939.png": {
+      "frame": {
+        "x": 8107,
+        "y": 1600,
+        "w": 77,
+        "h": 46
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1179,
+        "y": 78,
+        "w": 77,
+        "h": 46
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0917.png": {
+      "frame": {
+        "x": 7857,
+        "y": 1758,
+        "w": 240,
+        "h": 202
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1009,
+        "y": 7,
+        "w": 240,
+        "h": 202
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0937.png": {
+      "frame": {
+        "x": 8099,
+        "y": 1758,
+        "w": 94,
+        "h": 56
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1163,
+        "y": 72,
+        "w": 94,
+        "h": 56
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0918.png": {
+      "frame": {
+        "x": 7857,
+        "y": 1962,
+        "w": 233,
+        "h": 196
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1016,
+        "y": 10,
+        "w": 233,
+        "h": 196
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0111.png": {
+      "frame": {
+        "x": 2245,
+        "y": 1092,
+        "w": 1120,
+        "h": 337
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 25,
+        "w": 1120,
+        "h": 337
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0112.png": {
+      "frame": {
+        "x": 3367,
+        "y": 1092,
+        "w": 1120,
+        "h": 337
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 25,
+        "w": 1120,
+        "h": 337
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0136.png": {
+      "frame": {
+        "x": 4489,
+        "y": 1092,
+        "w": 1118,
+        "h": 364
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 0,
+        "w": 1118,
+        "h": 364
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0137.png": {
+      "frame": {
+        "x": 2245,
+        "y": 1431,
+        "w": 1118,
+        "h": 364
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 0,
+        "w": 1118,
+        "h": 364
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0141.png": {
+      "frame": {
+        "x": 3365,
+        "y": 1431,
+        "w": 1110,
+        "h": 354
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 10,
+        "w": 1110,
+        "h": 354
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0142.png": {
+      "frame": {
+        "x": 4477,
+        "y": 1458,
+        "w": 1110,
+        "h": 354
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 10,
+        "w": 1110,
+        "h": 354
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0151.png": {
+      "frame": {
+        "x": 3365,
+        "y": 1795,
+        "w": 1083,
+        "h": 364
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 0,
+        "w": 1083,
+        "h": 364
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0152.png": {
+      "frame": {
+        "x": 5589,
+        "y": 1795,
+        "w": 1083,
+        "h": 364
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 0,
+        "w": 1083,
+        "h": 364
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0143.png": {
+      "frame": {
+        "x": 4450,
+        "y": 1814,
+        "w": 1081,
+        "h": 351
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 13,
+        "w": 1081,
+        "h": 351
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0144.png": {
+      "frame": {
+        "x": 6674,
+        "y": 2138,
+        "w": 1081,
+        "h": 351
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 13,
+        "w": 1081,
+        "h": 351
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0145.png": {
+      "frame": {
+        "x": 5533,
+        "y": 2161,
+        "w": 1081,
+        "h": 351
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 13,
+        "w": 1081,
+        "h": 351
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0919.png": {
+      "frame": {
+        "x": 7757,
+        "y": 2160,
+        "w": 229,
+        "h": 190
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1024,
+        "y": 13,
+        "w": 229,
+        "h": 190
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0923.png": {
+      "frame": {
+        "x": 7988,
+        "y": 2160,
+        "w": 206,
+        "h": 164
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1055,
+        "y": 26,
+        "w": 206,
+        "h": 164
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0924.png": {
+      "frame": {
+        "x": 7988,
+        "y": 2326,
+        "w": 203,
+        "h": 157
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1063,
+        "y": 30,
+        "w": 203,
+        "h": 157
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0921.png": {
+      "frame": {
+        "x": 7757,
+        "y": 2352,
+        "w": 222,
+        "h": 176
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1040,
+        "y": 20,
+        "w": 222,
+        "h": 176
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0922.png": {
+      "frame": {
+        "x": 7981,
+        "y": 2485,
+        "w": 214,
+        "h": 170
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1047,
+        "y": 23,
+        "w": 214,
+        "h": 170
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0925.png": {
+      "frame": {
+        "x": 7981,
+        "y": 2657,
+        "w": 196,
+        "h": 150
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1070,
+        "y": 33,
+        "w": 196,
+        "h": 150
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0153.png": {
+      "frame": {
+        "x": 6616,
+        "y": 2491,
+        "w": 1077,
+        "h": 352
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 12,
+        "w": 1077,
+        "h": 352
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0154.png": {
+      "frame": {
+        "x": 6616,
+        "y": 2845,
+        "w": 1077,
+        "h": 352
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 12,
+        "w": 1077,
+        "h": 352
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0926.png": {
+      "frame": {
+        "x": 7695,
+        "y": 2530,
+        "w": 186,
+        "h": 111
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1079,
+        "y": 36,
+        "w": 186,
+        "h": 111
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0927.png": {
+      "frame": {
+        "x": 7695,
+        "y": 2643,
+        "w": 178,
+        "h": 106
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1086,
+        "y": 40,
+        "w": 178,
+        "h": 106
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0928.png": {
+      "frame": {
+        "x": 7695,
+        "y": 2751,
+        "w": 169,
+        "h": 101
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1094,
+        "y": 43,
+        "w": 169,
+        "h": 101
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0929.png": {
+      "frame": {
+        "x": 7866,
+        "y": 2809,
+        "w": 162,
+        "h": 124
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1101,
+        "y": 46,
+        "w": 162,
+        "h": 124
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0930.png": {
+      "frame": {
+        "x": 8030,
+        "y": 2809,
+        "w": 153,
+        "h": 118
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1109,
+        "y": 49,
+        "w": 153,
+        "h": 118
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0931.png": {
+      "frame": {
+        "x": 8030,
+        "y": 2929,
+        "w": 144,
+        "h": 111
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1117,
+        "y": 53,
+        "w": 144,
+        "h": 111
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0932.png": {
+      "frame": {
+        "x": 7695,
+        "y": 2854,
+        "w": 136,
+        "h": 81
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1125,
+        "y": 56,
+        "w": 136,
+        "h": 81
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0933.png": {
+      "frame": {
+        "x": 7833,
+        "y": 2935,
+        "w": 127,
+        "h": 76
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1133,
+        "y": 59,
+        "w": 127,
+        "h": 76
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0934.png": {
+      "frame": {
+        "x": 7695,
+        "y": 2937,
+        "w": 119,
+        "h": 90
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 1140,
+        "y": 64,
+        "w": 119,
+        "h": 90
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0155.png": {
+      "frame": {
+        "x": 1,
+        "y": 1450,
+        "w": 1077,
+        "h": 352
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 12,
+        "w": 1077,
+        "h": 352
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0146.png": {
+      "frame": {
+        "x": 1080,
+        "y": 1450,
+        "w": 1071,
+        "h": 354
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 10,
+        "w": 1071,
+        "h": 354
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0147.png": {
+      "frame": {
+        "x": 1,
+        "y": 1804,
+        "w": 1071,
+        "h": 354
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 10,
+        "w": 1071,
+        "h": 354
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0148.png": {
+      "frame": {
+        "x": 2153,
+        "y": 1797,
+        "w": 1062,
+        "h": 364
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 0,
+        "w": 1062,
+        "h": 364
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0149.png": {
+      "frame": {
+        "x": 1074,
+        "y": 1806,
+        "w": 1062,
+        "h": 364
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 0,
+        "w": 1062,
+        "h": 364
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0150.png": {
+      "frame": {
+        "x": 1,
+        "y": 2160,
+        "w": 1062,
+        "h": 364
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 0,
+        "w": 1062,
+        "h": 364
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0156.png": {
+      "frame": {
+        "x": 3217,
+        "y": 2161,
+        "w": 1060,
+        "h": 328
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 36,
+        "w": 1060,
+        "h": 328
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0157.png": {
+      "frame": {
+        "x": 2138,
+        "y": 2167,
+        "w": 1060,
+        "h": 328
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 36,
+        "w": 1060,
+        "h": 328
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0166.png": {
+      "frame": {
+        "x": 1065,
+        "y": 2172,
+        "w": 1029,
+        "h": 337
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 27,
+        "w": 1029,
+        "h": 337
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0167.png": {
+      "frame": {
+        "x": 1065,
+        "y": 2511,
+        "w": 1029,
+        "h": 337
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 27,
+        "w": 1029,
+        "h": 337
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0158.png": {
+      "frame": {
+        "x": 1,
+        "y": 2526,
+        "w": 1023,
+        "h": 325
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 39,
+        "w": 1023,
+        "h": 325
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0159.png": {
+      "frame": {
+        "x": 1,
+        "y": 2853,
+        "w": 1023,
+        "h": 325
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 39,
+        "w": 1023,
+        "h": 325
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0160.png": {
+      "frame": {
+        "x": 4279,
+        "y": 2167,
+        "w": 1023,
+        "h": 325
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 39,
+        "w": 1023,
+        "h": 325
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0168.png": {
+      "frame": {
+        "x": 3200,
+        "y": 2491,
+        "w": 1022,
+        "h": 318
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 46,
+        "w": 1022,
+        "h": 318
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0169.png": {
+      "frame": {
+        "x": 2096,
+        "y": 2497,
+        "w": 1022,
+        "h": 318
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 46,
+        "w": 1022,
+        "h": 318
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0170.png": {
+      "frame": {
+        "x": 2096,
+        "y": 2817,
+        "w": 1022,
+        "h": 318
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 46,
+        "w": 1022,
+        "h": 318
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0163.png": {
+      "frame": {
+        "x": 1026,
+        "y": 2850,
+        "w": 1019,
+        "h": 331
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 33,
+        "w": 1019,
+        "h": 331
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0164.png": {
+      "frame": {
+        "x": 1,
+        "y": 3180,
+        "w": 1019,
+        "h": 331
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 33,
+        "w": 1019,
+        "h": 331
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0165.png": {
+      "frame": {
+        "x": 4224,
+        "y": 2494,
+        "w": 1019,
+        "h": 331
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 33,
+        "w": 1019,
+        "h": 331
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0161.png": {
+      "frame": {
+        "x": 3120,
+        "y": 2811,
+        "w": 1014,
+        "h": 327
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 37,
+        "w": 1014,
+        "h": 327
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0162.png": {
+      "frame": {
+        "x": 2047,
+        "y": 3137,
+        "w": 1014,
+        "h": 327
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 37,
+        "w": 1014,
+        "h": 327
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0172.png": {
+      "frame": {
+        "x": 1022,
+        "y": 3183,
+        "w": 1014,
+        "h": 314
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 55,
+        "w": 1014,
+        "h": 314
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0171.png": {
+      "frame": {
+        "x": 5245,
+        "y": 2514,
+        "w": 1014,
+        "h": 311
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 53,
+        "w": 1014,
+        "h": 311
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0173.png": {
+      "frame": {
+        "x": 5245,
+        "y": 2827,
+        "w": 999,
+        "h": 312
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 57,
+        "w": 999,
+        "h": 312
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0174.png": {
+      "frame": {
+        "x": 4136,
+        "y": 2827,
+        "w": 999,
+        "h": 309
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 60,
+        "w": 999,
+        "h": 309
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0175.png": {
+      "frame": {
+        "x": 4136,
+        "y": 3138,
+        "w": 999,
+        "h": 307
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 62,
+        "w": 999,
+        "h": 307
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0232.png": {
+      "frame": {
+        "x": 3063,
+        "y": 3140,
+        "w": 993,
+        "h": 385
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 227,
+        "y": 114,
+        "w": 993,
+        "h": 385
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0231.png": {
+      "frame": {
+        "x": 2038,
+        "y": 3466,
+        "w": 992,
+        "h": 384
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 228,
+        "y": 114,
+        "w": 992,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0248.png": {
+      "frame": {
+        "x": 1022,
+        "y": 3499,
+        "w": 989,
+        "h": 402
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 90,
+        "w": 989,
+        "h": 402
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0249.png": {
+      "frame": {
+        "x": 1,
+        "y": 3513,
+        "w": 989,
+        "h": 399
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 90,
+        "w": 989,
+        "h": 399
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0250.png": {
+      "frame": {
+        "x": 5137,
+        "y": 3141,
+        "w": 989,
+        "h": 395
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 91,
+        "w": 989,
+        "h": 395
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0205.png": {
+      "frame": {
+        "x": 4058,
+        "y": 3447,
+        "w": 989,
+        "h": 332
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 126,
+        "w": 989,
+        "h": 332
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0204.png": {
+      "frame": {
+        "x": 3032,
+        "y": 3527,
+        "w": 989,
+        "h": 331
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 126,
+        "w": 989,
+        "h": 331
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0203.png": {
+      "frame": {
+        "x": 2013,
+        "y": 3852,
+        "w": 989,
+        "h": 330
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 126,
+        "w": 989,
+        "h": 330
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0220.png": {
+      "frame": {
+        "x": 2013,
+        "y": 4184,
+        "w": 987,
+        "h": 365
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 118,
+        "w": 987,
+        "h": 365
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0219.png": {
+      "frame": {
+        "x": 992,
+        "y": 3903,
+        "w": 987,
+        "h": 363
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 118,
+        "w": 987,
+        "h": 363
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0218.png": {
+      "frame": {
+        "x": 1,
+        "y": 3914,
+        "w": 987,
+        "h": 361
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 119,
+        "w": 987,
+        "h": 361
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0206.png": {
+      "frame": {
+        "x": 990,
+        "y": 4268,
+        "w": 980,
+        "h": 334
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 126,
+        "w": 980,
+        "h": 334
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0207.png": {
+      "frame": {
+        "x": 1,
+        "y": 4277,
+        "w": 980,
+        "h": 334
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 127,
+        "w": 980,
+        "h": 334
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0182.png": {
+      "frame": {
+        "x": 6128,
+        "y": 3199,
+        "w": 975,
+        "h": 348
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 80,
+        "w": 975,
+        "h": 348
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0181.png": {
+      "frame": {
+        "x": 5049,
+        "y": 3538,
+        "w": 975,
+        "h": 291
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 78,
+        "w": 975,
+        "h": 291
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0186.png": {
+      "frame": {
+        "x": 4023,
+        "y": 3781,
+        "w": 973,
+        "h": 341
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 92,
+        "w": 973,
+        "h": 341
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0187.png": {
+      "frame": {
+        "x": 3004,
+        "y": 3860,
+        "w": 973,
+        "h": 340
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 95,
+        "w": 973,
+        "h": 340
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0217.png": {
+      "frame": {
+        "x": 3004,
+        "y": 4202,
+        "w": 972,
+        "h": 360
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 119,
+        "w": 972,
+        "h": 360
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0216.png": {
+      "frame": {
+        "x": 1972,
+        "y": 4551,
+        "w": 972,
+        "h": 357
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 120,
+        "w": 972,
+        "h": 357
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0176.png": {
+      "frame": {
+        "x": 983,
+        "y": 4604,
+        "w": 971,
+        "h": 304
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 65,
+        "w": 971,
+        "h": 304
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0177.png": {
+      "frame": {
+        "x": 1,
+        "y": 4613,
+        "w": 971,
+        "h": 302
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 67,
+        "w": 971,
+        "h": 302
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0230.png": {
+      "frame": {
+        "x": 7105,
+        "y": 3199,
+        "w": 968,
+        "h": 382
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 229,
+        "y": 114,
+        "w": 968,
+        "h": 382
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0251.png": {
+      "frame": {
+        "x": 6026,
+        "y": 3549,
+        "w": 967,
+        "h": 392
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 91,
+        "w": 967,
+        "h": 392
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0252.png": {
+      "frame": {
+        "x": 4998,
+        "y": 3831,
+        "w": 967,
+        "h": 389
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 91,
+        "w": 967,
+        "h": 389
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0229.png": {
+      "frame": {
+        "x": 3979,
+        "y": 4124,
+        "w": 967,
+        "h": 381
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 230,
+        "y": 114,
+        "w": 967,
+        "h": 381
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0188.png": {
+      "frame": {
+        "x": 3979,
+        "y": 4507,
+        "w": 967,
+        "h": 338
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 98,
+        "w": 967,
+        "h": 338
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0190.png": {
+      "frame": {
+        "x": 3979,
+        "y": 4847,
+        "w": 967,
+        "h": 337
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 102,
+        "w": 967,
+        "h": 337
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0189.png": {
+      "frame": {
+        "x": 3979,
+        "y": 5186,
+        "w": 967,
+        "h": 336
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 101,
+        "w": 967,
+        "h": 336
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0228.png": {
+      "frame": {
+        "x": 2946,
+        "y": 4564,
+        "w": 966,
+        "h": 381
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 231,
+        "y": 113,
+        "w": 966,
+        "h": 381
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0185.png": {
+      "frame": {
+        "x": 2946,
+        "y": 4947,
+        "w": 966,
+        "h": 354
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 78,
+        "w": 966,
+        "h": 354
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0183.png": {
+      "frame": {
+        "x": 6995,
+        "y": 3583,
+        "w": 966,
+        "h": 351
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 78,
+        "w": 966,
+        "h": 351
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0178.png": {
+      "frame": {
+        "x": 6995,
+        "y": 3936,
+        "w": 961,
+        "h": 299
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 70,
+        "w": 961,
+        "h": 299
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0179.png": {
+      "frame": {
+        "x": 5967,
+        "y": 3943,
+        "w": 961,
+        "h": 297
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 72,
+        "w": 961,
+        "h": 297
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0180.png": {
+      "frame": {
+        "x": 4948,
+        "y": 4222,
+        "w": 961,
+        "h": 294
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 75,
+        "w": 961,
+        "h": 294
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0241.png": {
+      "frame": {
+        "x": 4948,
+        "y": 4518,
+        "w": 955,
+        "h": 390
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 217,
+        "y": 112,
+        "w": 955,
+        "h": 390
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0240.png": {
+      "frame": {
+        "x": 6930,
+        "y": 4237,
+        "w": 954,
+        "h": 387
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 218,
+        "y": 115,
+        "w": 954,
+        "h": 387
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0242.png": {
+      "frame": {
+        "x": 5911,
+        "y": 4242,
+        "w": 953,
+        "h": 393
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 219,
+        "y": 109,
+        "w": 953,
+        "h": 393
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0239.png": {
+      "frame": {
+        "x": 5911,
+        "y": 4637,
+        "w": 953,
+        "h": 383
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 219,
+        "y": 119,
+        "w": 953,
+        "h": 383
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0238.png": {
+      "frame": {
+        "x": 4948,
+        "y": 4910,
+        "w": 952,
+        "h": 384
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 220,
+        "y": 118,
+        "w": 952,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0243.png": {
+      "frame": {
+        "x": 4948,
+        "y": 5296,
+        "w": 951,
+        "h": 396
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 221,
+        "y": 106,
+        "w": 951,
+        "h": 396
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0237.png": {
+      "frame": {
+        "x": 6866,
+        "y": 4626,
+        "w": 951,
+        "h": 385
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 221,
+        "y": 117,
+        "w": 951,
+        "h": 385
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0210.png": {
+      "frame": {
+        "x": 6866,
+        "y": 5013,
+        "w": 951,
+        "h": 337
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 127,
+        "w": 951,
+        "h": 337
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0191.png": {
+      "frame": {
+        "x": 5902,
+        "y": 5022,
+        "w": 951,
+        "h": 336
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 104,
+        "w": 951,
+        "h": 336
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0192.png": {
+      "frame": {
+        "x": 5902,
+        "y": 5360,
+        "w": 951,
+        "h": 336
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 106,
+        "w": 951,
+        "h": 336
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0209.png": {
+      "frame": {
+        "x": 6855,
+        "y": 5352,
+        "w": 951,
+        "h": 336
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 127,
+        "w": 951,
+        "h": 336
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0208.png": {
+      "frame": {
+        "x": 6855,
+        "y": 5690,
+        "w": 951,
+        "h": 335
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 127,
+        "w": 951,
+        "h": 335
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0235.png": {
+      "frame": {
+        "x": 974,
+        "y": 4910,
+        "w": 950,
+        "h": 419
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 223,
+        "y": 83,
+        "w": 950,
+        "h": 419
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0236.png": {
+      "frame": {
+        "x": 1,
+        "y": 4917,
+        "w": 950,
+        "h": 386
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 222,
+        "y": 116,
+        "w": 950,
+        "h": 386
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0234.png": {
+      "frame": {
+        "x": 1,
+        "y": 5305,
+        "w": 949,
+        "h": 419
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 224,
+        "y": 83,
+        "w": 949,
+        "h": 419
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0244.png": {
+      "frame": {
+        "x": 1926,
+        "y": 4910,
+        "w": 948,
+        "h": 399
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 224,
+        "y": 103,
+        "w": 948,
+        "h": 399
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0233.png": {
+      "frame": {
+        "x": 1926,
+        "y": 5311,
+        "w": 947,
+        "h": 418
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 226,
+        "y": 83,
+        "w": 947,
+        "h": 418
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0245.png": {
+      "frame": {
+        "x": 952,
+        "y": 5698,
+        "w": 946,
+        "h": 400
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 226,
+        "y": 100,
+        "w": 946,
+        "h": 400
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0258.png": {
+      "frame": {
+        "x": 952,
+        "y": 5331,
+        "w": 940,
+        "h": 365
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 94,
+        "w": 940,
+        "h": 365
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0215.png": {
+      "frame": {
+        "x": 1,
+        "y": 5731,
+        "w": 946,
+        "h": 356
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 120,
+        "w": 946,
+        "h": 356
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0214.png": {
+      "frame": {
+        "x": 1,
+        "y": 6089,
+        "w": 946,
+        "h": 355
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 120,
+        "w": 946,
+        "h": 355
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0213.png": {
+      "frame": {
+        "x": 2876,
+        "y": 5303,
+        "w": 946,
+        "h": 349
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 124,
+        "w": 946,
+        "h": 349
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0246.png": {
+      "frame": {
+        "x": 2876,
+        "y": 5654,
+        "w": 944,
+        "h": 401
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 228,
+        "y": 96,
+        "w": 944,
+        "h": 401
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0247.png": {
+      "frame": {
+        "x": 1900,
+        "y": 5731,
+        "w": 942,
+        "h": 402
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 230,
+        "y": 93,
+        "w": 942,
+        "h": 402
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0222.png": {
+      "frame": {
+        "x": 949,
+        "y": 6100,
+        "w": 942,
+        "h": 385
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 100,
+        "w": 942,
+        "h": 385
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0221.png": {
+      "frame": {
+        "x": 1,
+        "y": 6446,
+        "w": 942,
+        "h": 384
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 100,
+        "w": 942,
+        "h": 384
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0198.png": {
+      "frame": {
+        "x": 3824,
+        "y": 5524,
+        "w": 942,
+        "h": 332
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 118,
+        "w": 942,
+        "h": 332
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0199.png": {
+      "frame": {
+        "x": 3824,
+        "y": 5858,
+        "w": 942,
+        "h": 331
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 120,
+        "w": 942,
+        "h": 331
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0200.png": {
+      "frame": {
+        "x": 2844,
+        "y": 6057,
+        "w": 942,
+        "h": 331
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 122,
+        "w": 942,
+        "h": 331
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0617.png": {
+      "frame": {
+        "x": 1893,
+        "y": 6135,
+        "w": 940,
+        "h": 401
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 27,
+        "w": 940,
+        "h": 401
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0615.png": {
+      "frame": {
+        "x": 945,
+        "y": 6487,
+        "w": 940,
+        "h": 400
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 28,
+        "w": 940,
+        "h": 400
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0616.png": {
+      "frame": {
+        "x": 1,
+        "y": 6832,
+        "w": 940,
+        "h": 400
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 28,
+        "w": 940,
+        "h": 400
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0588.png": {
+      "frame": {
+        "x": 4768,
+        "y": 5694,
+        "w": 940,
+        "h": 399
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 29,
+        "w": 940,
+        "h": 399
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0589.png": {
+      "frame": {
+        "x": 4768,
+        "y": 6095,
+        "w": 940,
+        "h": 399
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 29,
+        "w": 940,
+        "h": 399
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0590.png": {
+      "frame": {
+        "x": 3788,
+        "y": 6191,
+        "w": 940,
+        "h": 399
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 29,
+        "w": 940,
+        "h": 399
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0591.png": {
+      "frame": {
+        "x": 2835,
+        "y": 6390,
+        "w": 940,
+        "h": 399
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 29,
+        "w": 940,
+        "h": 399
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0614.png": {
+      "frame": {
+        "x": 1887,
+        "y": 6538,
+        "w": 940,
+        "h": 399
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 29,
+        "w": 940,
+        "h": 399
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0618.png": {
+      "frame": {
+        "x": 943,
+        "y": 6889,
+        "w": 940,
+        "h": 399
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 29,
+        "w": 940,
+        "h": 399
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0583.png": {
+      "frame": {
+        "x": 1,
+        "y": 7234,
+        "w": 940,
+        "h": 398
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 30,
+        "w": 940,
+        "h": 398
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0846.png": {
+      "frame": {
+        "x": 1,
+        "y": 7634,
+        "w": 881,
+        "h": 428
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 291,
+        "y": 0,
+        "w": 881,
+        "h": 428
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0847.png": {
+      "frame": {
+        "x": 884,
+        "y": 7634,
+        "w": 881,
+        "h": 428
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 291,
+        "y": 0,
+        "w": 881,
+        "h": 428
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0277.png": {
+      "frame": {
+        "x": 943,
+        "y": 7290,
+        "w": 940,
+        "h": 342
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 86,
+        "w": 940,
+        "h": 342
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0848.png": {
+      "frame": {
+        "x": 1767,
+        "y": 7634,
+        "w": 881,
+        "h": 428
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 291,
+        "y": 0,
+        "w": 881,
+        "h": 428
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0584.png": {
+      "frame": {
+        "x": 5710,
+        "y": 5698,
+        "w": 940,
+        "h": 398
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 30,
+        "w": 940,
+        "h": 398
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0585.png": {
+      "frame": {
+        "x": 5710,
+        "y": 6098,
+        "w": 940,
+        "h": 398
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 30,
+        "w": 940,
+        "h": 398
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0586.png": {
+      "frame": {
+        "x": 4730,
+        "y": 6496,
+        "w": 940,
+        "h": 398
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 30,
+        "w": 940,
+        "h": 398
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0587.png": {
+      "frame": {
+        "x": 3777,
+        "y": 6592,
+        "w": 940,
+        "h": 398
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 30,
+        "w": 940,
+        "h": 398
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0612.png": {
+      "frame": {
+        "x": 2829,
+        "y": 6791,
+        "w": 940,
+        "h": 398
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 30,
+        "w": 940,
+        "h": 398
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0613.png": {
+      "frame": {
+        "x": 1885,
+        "y": 6939,
+        "w": 940,
+        "h": 398
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 30,
+        "w": 940,
+        "h": 398
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0836.png": {
+      "frame": {
+        "x": 1885,
+        "y": 7339,
+        "w": 881,
+        "h": 291
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 291,
+        "y": 137,
+        "w": 881,
+        "h": 291
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0849.png": {
+      "frame": {
+        "x": 2650,
+        "y": 7632,
+        "w": 881,
+        "h": 428
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 291,
+        "y": 0,
+        "w": 881,
+        "h": 428
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0837.png": {
+      "frame": {
+        "x": 2768,
+        "y": 7339,
+        "w": 881,
+        "h": 290
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 291,
+        "y": 138,
+        "w": 881,
+        "h": 290
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0850.png": {
+      "frame": {
+        "x": 3651,
+        "y": 7191,
+        "w": 881,
+        "h": 428
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 291,
+        "y": 0,
+        "w": 881,
+        "h": 428
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0851.png": {
+      "frame": {
+        "x": 3533,
+        "y": 7631,
+        "w": 881,
+        "h": 428
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 291,
+        "y": 0,
+        "w": 881,
+        "h": 428
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0852.png": {
+      "frame": {
+        "x": 4416,
+        "y": 7621,
+        "w": 881,
+        "h": 428
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 291,
+        "y": 0,
+        "w": 881,
+        "h": 428
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0853.png": {
+      "frame": {
+        "x": 5299,
+        "y": 7621,
+        "w": 881,
+        "h": 428
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 291,
+        "y": 0,
+        "w": 881,
+        "h": 428
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0864.png": {
+      "frame": {
+        "x": 6182,
+        "y": 7621,
+        "w": 881,
+        "h": 428
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 291,
+        "y": 0,
+        "w": 881,
+        "h": 428
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0619.png": {
+      "frame": {
+        "x": 7065,
+        "y": 6992,
+        "w": 940,
+        "h": 398
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 30,
+        "w": 940,
+        "h": 398
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0014.png": {
+      "frame": {
+        "x": 5672,
+        "y": 7392,
+        "w": 771,
+        "h": 222
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 140,
+        "w": 771,
+        "h": 222
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0578.png": {
+      "frame": {
+        "x": 4534,
+        "y": 6992,
+        "w": 940,
+        "h": 397
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 31,
+        "w": 940,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0015.png": {
+      "frame": {
+        "x": 6445,
+        "y": 7392,
+        "w": 771,
+        "h": 222
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 140,
+        "w": 771,
+        "h": 222
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0016.png": {
+      "frame": {
+        "x": 4534,
+        "y": 7391,
+        "w": 771,
+        "h": 222
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 140,
+        "w": 771,
+        "h": 222
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0579.png": {
+      "frame": {
+        "x": 7218,
+        "y": 7392,
+        "w": 940,
+        "h": 397
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 232,
+        "y": 31,
+        "w": 940,
+        "h": 397
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0856.png": {
+      "frame": {
+        "x": 7218,
+        "y": 7791,
+        "w": 881,
+        "h": 401
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 291,
+        "y": 27,
+        "w": 881,
+        "h": 401
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0865.png": {
+      "frame": {
+        "x": 5672,
+        "y": 6498,
+        "w": 881,
+        "h": 428
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 291,
+        "y": 0,
+        "w": 881,
+        "h": 428
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0866.png": {
+      "frame": {
+        "x": 5672,
+        "y": 6928,
+        "w": 881,
+        "h": 428
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 291,
+        "y": 0,
+        "w": 881,
+        "h": 428
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0867.png": {
+      "frame": {
+        "x": 6555,
+        "y": 6498,
+        "w": 881,
+        "h": 428
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 291,
+        "y": 0,
+        "w": 881,
+        "h": 428
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0006.png": {
+      "frame": {
+        "x": 7438,
+        "y": 6498,
+        "w": 754,
+        "h": 204
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 249,
+        "y": 158,
+        "w": 754,
+        "h": 204
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0005.png": {
+      "frame": {
+        "x": 7438,
+        "y": 6704,
+        "w": 731,
+        "h": 204
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 272,
+        "y": 158,
+        "w": 731,
+        "h": 204
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    },
+    "export/TheSongeryOriginalMusicStPaddys0868.png": {
+      "frame": {
+        "x": 6652,
+        "y": 6027,
+        "w": 881,
+        "h": 428
+      },
+      "rotated": false,
+      "trimmed": true,
+      "spriteSourceSize": {
+        "x": 291,
+        "y": 0,
+        "w": 881,
+        "h": 428
+      },
+      "sourceSize": {
+        "w": 1410,
+        "h": 502
+      },
+      "pivot": {
+        "x": 0.5,
+        "y": 0.5
+      }
+    }
+  },
+  "meta": {
+    "app": "http://free-tex-packer.com",
+    "version": "0.6.7",
+    "image": "TheSongeryOriginalMusicStPaddys-0.png",
+    "format": "RGBA8888",
+    "size": {
+      "w": 8196,
+      "h": 8193
+    },
+    "scale": 1
+  }
+}

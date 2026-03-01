@@ -4,6 +4,7 @@ import { TheSongeryOriginalMusicBday } from "../TheSongeryOriginalMusicRavenBday
 import { TheSongeryOriginalMusicRaven } from "./TheSongeryOriginalMusicRaven"
 import { TheSongeryOriginalMusicHalloweenContainer } from "../TheSongeryOriginalMusicRavenHalloween/TheSongeryOriginalMusicHalloweenContainer";
 import { TheSongeryOriginalMusicRavenValentines } from "../TheSongeryOriginalMusicRavenValentines/TheSongeryOriginalMusicRavenValentines";
+import { TheSongeryOriginalMusicRavenStPaddys } from "../TheSongeryOriginalMusicRavenStPaddys/TheSongeryOriginalMusicStPaddys";
 
 export interface IProps {
 }
@@ -48,10 +49,21 @@ const isValentinesPeriod = () => {
     return false;
 }
 
+const isStPaddysPeriod = () => {
+    const now = new Date();
+    const month = now.getMonth();
+    const day = now.getDate();
+    if (month === 2 && day >= 2 && day <= 18) {
+        return true;
+    }
+    return false;
+}
+
 export const TheSongeryOriginalMusicRavenContainer = (props: IProps) => {
     const [isBday, setIsBday] = useState(isTodayBday() || isExtendedBday());
     const [isHalloween, setIsHalloween] = useState(isHalloweenPeriod());
     const [isValentines, setIsValentines] = useState(isValentinesPeriod());
+    const [isStPaddys, setIsStPaddys] = useState(isStPaddysPeriod());
 
     useEffect(() => {
         setInterval(() => {
@@ -67,6 +79,12 @@ export const TheSongeryOriginalMusicRavenContainer = (props: IProps) => {
                 setIsValentines(false);
             }
 
+            if (!isStPaddys && isStPaddysPeriod()) {
+                setIsStPaddys(true);
+            } else if (isStPaddys && !isStPaddysPeriod()) {
+                setIsStPaddys(false);
+            }
+
             if (!isBday && (isTodayBday() || isExtendedBday())) {
                 setIsBday(true);
             } else if (isBday && !(isTodayBday() || isExtendedBday())) {
@@ -75,14 +93,18 @@ export const TheSongeryOriginalMusicRavenContainer = (props: IProps) => {
         }, 10000)
     }, []);
 
-    console.log({ isBday, isHalloween, isValentines })
+    console.log({ isBday, isHalloween, isValentines, isStPaddys })
 
     return <StreamerSongListContainer>
         {isBday ? <TheSongeryOriginalMusicBday /> :
         (
             isValentines ? <TheSongeryOriginalMusicRavenValentines /> :
             (
-                isHalloween ? <TheSongeryOriginalMusicHalloweenContainer /> : <TheSongeryOriginalMusicRaven />
+                isHalloween ? <TheSongeryOriginalMusicHalloweenContainer /> :
+                (
+                    isStPaddys ? <TheSongeryOriginalMusicRavenStPaddys /> :
+                    <TheSongeryOriginalMusicRaven />
+                )
             )
         )
         }
