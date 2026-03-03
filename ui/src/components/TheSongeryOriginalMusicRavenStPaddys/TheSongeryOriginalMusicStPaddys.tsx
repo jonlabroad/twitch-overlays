@@ -3,7 +3,7 @@ import { SongListStateContext } from "../StreamerSongListContainer";
 import { 
   PixiSpritesheetAnimation, 
   PixiAnimationController 
-} from "./PixiSpritesheetAnimation";
+} from "../../util/PixiSpritesheetAnimation";
 
 function isOriginal(currentListSongRef: any) {
   return (
