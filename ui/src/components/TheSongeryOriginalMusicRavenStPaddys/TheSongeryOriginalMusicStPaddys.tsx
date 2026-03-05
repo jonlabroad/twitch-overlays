@@ -13,15 +13,15 @@ function isOriginal(currentListSongRef: any) {
   );
 }
 
-const spritesheetPattern = "TheSongeryOriginalMusicStPaddys-{n}.json";
-const spritesheetCount = 11;
+const spritesheetPattern = "TheSongeryOriginalMusicStPaddysCoins-{n}.json";
+const spritesheetCount = 5;
 const spritesheetFiles = Array.from({ length: spritesheetCount }, (_, i) =>
   spritesheetPattern.replace("{n}", String(i))
 );
 
 // Animation configuration
 const animationConfig = {
-  path: "images/originalMusicRavenStPaddys",
+  path: "images/originalMusicRavenStPaddysCoins",
   spritesheetFiles,
   totalFrames: 948,
   fps: 60,
