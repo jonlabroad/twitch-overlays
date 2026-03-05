@@ -14,7 +14,7 @@ function isOriginal(currentListSongRef: any) {
 }
 
 const spritesheetPattern = "TheSongeryOriginalMusicStPaddys-{n}.json";
-const spritesheetCount = 5;
+const spritesheetCount = 11;
 const spritesheetFiles = Array.from({ length: spritesheetCount }, (_, i) =>
   spritesheetPattern.replace("{n}", String(i))
 );
